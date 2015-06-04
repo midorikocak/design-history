@@ -1,0 +1,258 @@
+storyjs_jsonp_data = {
+    "timeline":
+    {
+        "headline":"Deisgn History Timeline 1990-2010",
+        "type":"default",
+		"text":"Midori Kocak",
+		"startDate":"1990",
+        "date": [
+         {
+    
+            "startDate":"1992",
+            "headline":"Ray Gun",
+            "asset":
+            {
+               "media":"images/raygun.jpg",
+               "credit":"",
+               "caption":""
+            },
+            "text":"<p>While the contents of its pages were not related to graphic design, Ray Gun magazine proved to be an exploration of typography, layout and visual storytelling that would shift the approach of many graphic designers. The magazine was founded in 1992 and led by the work of David Carson, who served as its art director for the first three years of its career, which lasted 7 years and over 70 issues.</p><p>Carson's style of typographic experimentation influenced the development of the deconstruction style of design and a whole new generation of designers. The experiments by Carson and other Ray Gun designers were chaotic, abstract and distinctive, but sometimes illegible. The magazine's radical subject matter often related to music and pop culture icons and the magazine became a reliable source for the prediction of up-and-coming stars.</p>",
+    
+         },
+         {
+    
+            "startDate":"1994",
+            "headline":" Paula Scher",
+            "asset":
+            {
+               "media":"images/22-54.jpg",
+               "credit":"",
+               "caption":""
+            },
+            "text":"Language Is a Deadly Weapon graphic for MTV’s \"Free Your Mind\" campaign, 1994. Derogatory terms for women are presented to increase sensitivity to the effect of slang upon others.",
+    
+         },
+         {
+    
+            "startDate":"1994",
+            "headline":" Chaz Maviyane-Davies",
+            "asset":
+            {
+               "media":"images/23-149.jpg",
+               "credit":"",
+               "caption":""
+            },
+            "text":"Remember Vietnam, poster, 1994. This poster refers to the use of the dangerous herbicide Agent Orange during the Vietnam War.",
+    
+         },
+         {
+    
+            "startDate":"1994",
+            "headline":" David Carson (art director) and John Ritter (photographer)",
+            "asset":
+            {
+               "media":"images/24-12.jpg",
+               "credit":"",
+               "caption":""
+            },
+            "text":"Is Techno Dead?,Ray Gun, 1994. Text type and spatial intervals join with computer-manipulated photographs in a rhythmic melody of white and dark shapes.",
+    
+         },
+         {
+    
+            "startDate":"1995",
+            "headline":" Charles S. Anderson Design Co.",
+            "asset":
+            {
+               "media":"images/22-50.jpg",
+               "credit":"",
+               "caption":""
+            },
+            "text":"cover for CSA Archive Catalog of Stock Art, 1995. The heaviness of bold black type and illustration are tempered by an underlay of abstract shapes in three warm colors.",
+    
+         },
+         {
+    
+            "startDate":"1995",
+            "headline":" Pentagram (Paula Scher)",
+            "asset":
+            {
+               "media":"images/24-79.jpg",
+               "credit":"",
+               "caption":""
+            },
+            "text":"poster for the 1995–96 season of the Public Theatre, New York.",
+    
+         },
+         {
+    
+            "startDate":"1995",
+            "headline":" Jennifer Morla",
+            "asset":
+            {
+               "media":"images/24-83.jpg",
+               "credit":"",
+               "caption":""
+            },
+            "text":"El Museo Mexicano promotional poster, 1995.",
+    
+         },
+         {
+    
+            "startDate":"1995",
+            "headline":"David Carson",
+            "asset":
+            {
+               "media":"images/23a.jpg",
+               "credit":"",
+               "caption":""
+            },
+            "text":"Currently calling New York his base of operations, Carson was born in Corpus Christi, Texas and spent much of his early life in southern California where he was a high school teacher before becoming a designer. Ingrained within the surfing sub-culture of southern California, Carson started experimenting with graphic design during the mid 1980s. Not only a designer, in 1989 he has qualified as the 9th best surfer in the world. His interest in the world of surfing gave him the opportunities to experiment with design, working on several different publications related to the profession.Transworld Skateboarding, Beach Culture, How Magazine and RayGun were among the primary publications on which he worked. However, it was RayGun where he gained perhaps the most recognition and was able to share his design style, characterized by \"dirty\" type which adheres to none of the standard practices of typography and is often illegible, with the widest audience. After the success of RayGun, and press from the New York Times and Newsweek, he formed his own studio. David Carson Design was founded in 1995 and is still home to Carson and his work.",
+    
+         },
+         {
+    
+            "startDate":"1997",
+            "headline":" Paul Brühwiler",
+            "asset":
+            {
+               "media":"images/23-75.jpg",
+               "credit":"",
+               "caption":""
+            },
+            "text":"Andere Zeiten (Other Times), poster for Internationale Literaturtage Erlangen, 1997.",
+    
+         },
+         {
+    
+            "startDate":"2000",
+            "headline":" Jonathan Hoefler and Tobias Frere-Jones",
+            "asset":
+            {
+               "media":"images/24-39.jpg",
+               "credit":"",
+               "caption":""
+            },
+            "text":"Gotham typeface, c. 2000.",
+    
+         },
+         {
+    
+            "startDate":"2002",
+            "headline":" Luba Lukova",
+            "asset":
+            {
+               "media":"images/23-62.jpg",
+               "credit":"",
+               "caption":""
+            },
+            "text":"Water, poster, 2002. The message for water conservation is a barren lake bed that forms the body of a dead fish.",
+    
+         },
+         {
+    
+            "startDate":"2002",
+            "headline":" Ahn Sang-Soo",
+            "asset":
+            {
+               "media":"images/23-137.jpg",
+               "credit":"",
+               "caption":""
+            },
+            "text":"poster for the Jeonju International Film Festival, 2002.",
+    
+         },
+         {
+    
+            "startDate":"2002",
+            "headline":" Reza Abedini",
+            "asset":
+            {
+               "media":"images/23-145.jpg",
+               "credit":"",
+               "caption":""
+            },
+            "text":"poster for Visual Experiments, an exhibition of his own work, 2002.",
+    
+         },
+         {
+    
+            "startDate":"2004",
+            "headline":" Alan Kitching",
+            "asset":
+            {
+               "media":"images/24-96.jpg",
+               "credit":"",
+               "caption":""
+            },
+            "text":"Blood, Toil, Tears, and Sweat, letterpress edition print, 2004. This print was created for the exhibition Public Address System in London and Berlin, 2004.",
+    
+         },
+         {
+    
+            "startDate":"2005",
+            "headline":" Danny Yount",
+            "asset":
+            {
+               "media":"images/24-67.jpg",
+               "credit":"",
+               "caption":""
+            },
+            "text":"main title design for Kiss Kiss Bang Bang, 2005.",
+    
+         },
+         {
+    
+            "startDate":"2006",
+            "headline":" Koeweiden-Postma",
+            "asset":
+            {
+               "media":"images/24-91.jpg",
+               "credit":"",
+               "caption":""
+            },
+            "text":"visual identity and posters for Marhaba, 2006. Koeweiden’s poster series reflects the celebratory atmosphere surrounding the opening of an Islamic cultural center in Amsterdam.",
+    
+         },
+         {
+    
+            "startDate":"2007",
+            "headline":" João Machado",
+            "asset":
+            {
+               "media":"images/23-103.jpg",
+               "credit":"",
+               "caption":""
+            },
+            "text":"stamps for commemorating Cascais 2007 ISAF Sailing World Championships, 2006.",
+    
+         },
+         {
+    
+            "startDate":"2009",
+            "headline":" Nadine Chahine",
+            "asset":
+            {
+               "media":"images/24-42.jpg",
+               "credit":"",
+               "caption":""
+            },
+            "text":"Neue Helvetica Arabic, 2009.",
+    
+         },
+         {
+    
+            "startDate":"2010",
+            "headline":"Neville Brody",
+            "asset":
+            {
+               "media":"images/calendar.jpg",
+               "credit":"",
+               "caption":""
+            },
+            "text":"<p>Neville Brody is a London born designer who studied design in Britian during the 1970s. He spent three years studying at the London College of Printing where his work, which was quite experimental in nature, was met with quite unfavorable criticism because the school generally taught traditional printing methods. He gained a fair amount of attention as an art director for The Face magazine, where he worked from 1980 to 1993. The magazine was very popular in the 1980s, it was called a \"fashion bible\" and set many of the trends of design which enjoyed success during the same time period.</p><p>In 1994 he formed Neville Brody Studio, now Research Studios, which has enjoyed much success and has since expanded to include offices in London, Paris, Berlin and Barcelona. He is a founding member of the London based type foundry Fontworks and has designed over 20 different typefaces during his career. He was also a major contributor to FUSE, which was a publication about the practice of experimental typography and was an avid user of the computer as a design tool during its developmental stages.</p>",
+    
+         }
+        ]
+    }
+}

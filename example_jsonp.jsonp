@@ -1,0 +1,390 @@
+storyjs_jsonp_data = {
+    "timeline":
+    {
+        "headline":"Deisgn History Timeline 1902-1924",
+        "type":"default",
+		"text":"Midori Kocak",
+		"startDate":"1902",
+        "date": [
+            {
+                "asset": {
+                    "caption": "",
+                    "credit": "",
+                    "media": "images/12-21.jpg"
+                },
+                "headline": " Koloman Moser",
+                "startDate": "1902",
+                "text": "poster for the thirteenth Vienna Secession exhibition, 1902. Mathematical patterns of squares and rectangles contrast with the circular forms of the figures and letterforms."
+            },
+            {
+                "asset": {
+                    "caption": "",
+                    "credit": "",
+                    "media": "images/10-26.jpg"
+                },
+                "headline": " T. J. Cobden-Sanderson and Emery Walker",
+                "startDate": "1903",
+                "text": "pages from the Doves Press Bible, 1903. This book\u2019s purity of design and flawless perfection of craft have seldom been equaled."
+            },
+            {
+                "asset": {
+                    "caption": "",
+                    "credit": "",
+                    "media": "images/14-8.jpg"
+                },
+                "headline": " Lucian Bernhard",
+                "startDate": "1905",
+                "text": "poster for Priester matches, c. 1905. Color became the means of projecting a powerful message with minimal information."
+            },
+            {
+                "asset": {
+                    "caption": "",
+                    "credit": "",
+                    "media": "images/deutscher-werkbund.jpg"
+                },
+                "endDate": "1935",
+                "headline": "Deutscher Werkbund",
+                "startDate": "1907",
+                "text": "<p>The Deutscher Werkbund (German Association of Craftsmen) was a German association of artists, architects, designers, and industrialists. The Werkbund was to become an important event in the development of modern architecture and industrial design, particularly in the later creation of the Bauhaus school of design. Its initial purpose was to establish a partnership of product manufacturers with design professionals to improve the competitiveness of German companies in global markets. The Werkbund was less an artistic movement than a state-sponsored effort to integrate traditional crafts and industrial mass-production techniques, to put Germany on a competitive footing with England and the United States. Its motto Vom Sofakissen zum St\u00e4dtebau (from sofa cushions to city-building) indicates its range of interest.</p>"
+            },
+            {
+                "asset": {
+                    "caption": "",
+                    "credit": "",
+                    "media": "images/Violin_and_Candlestick.jpg"
+                },
+                "endDate": "1922",
+                "headline": "Cubism",
+                "startDate": "1907",
+                "text": "<p>Cubism was one of the first truly modern movements to emerge in art. It evolved during a period of heroic and rapid innovation between Pablo Picasso and Georges Braque. The movement has been described as having two stages: 'Analytic' Cubism, in which forms seem to be 'analyzed' and fragmented; and 'Synthetic' Cubism, in which newspaper and other foreign materials such as chair caning and wood veneer, are collaged to the surface of the canvas as 'synthetic' signs for depicted objects. The style was significantly developed by Fernand L\u00e9ger and Juan Gris, but it attracted a host of adherents, both in Paris and abroad, and it would go on to influence the Abstract Expressionists, particularly Willem de Kooning.</p><a href='http://www.theartstory.org/movement-cubism.htm'>Resource</a>"
+            },
+            {
+                "asset": {
+                    "caption": "",
+                    "credit": "",
+                    "media": "images/12-39.jpg"
+                },
+                "headline": " Peter Behrens",
+                "startDate": "1907",
+                "text": "AEG trademark, 1907. The new mark was consistently applied to buildings, stationery, products, and graphics."
+            },
+            {
+                "asset": {
+                    "caption": "",
+                    "credit": "",
+                    "media": "images/The_Kiss_-_Gustav_Klimt_-_Google_Cultural_Institute.jpg"
+                },
+                "headline": "Gustav Klimt",
+                "startDate": "1908",
+                "text": "Austrian painter Gustav Klimt was Vienna's most renowned advocator of Art Nouveau, or, as the style was known in Germany, Jugendstil (\"youth style\"). He is remembered as one of the greatest decorative painters of the twentieth century, and he also produced one of the century's most significant bodies of erotic art. Initially successful as a conventional academic painter, his encounter with more modern trends in European art encouraged him to develop his own eclectic and often fantastic style. His position as the co-founder and first president of the Vienna Secession also ensured that this style would become widely influential - though Klimt's direct influence on other artists was limited. He never courted scandal, but it dogged his career, and although he never married, he is said to have fathered fourteen children."
+            },
+            {
+                "asset": {
+                    "caption": "",
+                    "credit": "",
+                    "media": "images/umberto_boccioni_-_charge_of_the_lancers.jpg"
+                },
+                "endDate": "1930",
+                "headline": "Futurism",
+                "startDate": "1909",
+                "text": "<p>Futurism was not only an art movement but also a social movement that developed in Italy in the early 20th century. Futurists were well versed and practiced in nearly every field of art including painting, ceramics, sculpture, graphic design, interior design, theater, film, literature, music and architecture. It was a movement that particularly despised not just certain aspects of classical antiquity, but everything that was not totally new. </p><p>The painters of Futurism were particularly successful but much of the ideas of the movement were generated through writing and several manifestos of futurism were published. They often broke light and color down into a series of dots or geometric forms through a process called divisionism. Futurism influenced many modern art movements of the 20th century which in turn influenced the development of graphic design. The writings, philosophies and aesthetic characteristics of futurism have been particularly influential to designers.</p><a href='http://www.designishistory.com/1850/futurism/'>Resource</a>"
+            },
+            {
+                "asset": {
+                    "caption": "",
+                    "credit": "",
+                    "media": "images/art-deco.png"
+                },
+                "endDate": "1939",
+                "headline": "Art Deco",
+                "startDate": "1910",
+                "text": "<p>Art deco was a reaction to the Art Nouveau movement, an expression of the opposition to the disharmony. This style diverged significantly into the future, began to use mass production to create useful objects, however consistent their highest quality. Because of that they unfortunately were not available to the whole society.</p> <p>Exploiting geometrical, trapezoidal shapes were characteristic features of this style. People were more and more travelling, therefore Egyptian, Aztec, African or ancient motifs were becoming more popular and accessible in ornamentation. In addition, artists began to use materials such as ivory, ebony, silver, pearls, which were also imported from foreign travel. By using new materials, Art Deco objects looked elegant, were both styled and functional.</p><a href='http://www.slideshare.net/markrotondella/key-movements-in-design'>Resource</a>"
+            },
+            {
+                "asset": {
+                    "caption": "",
+                    "credit": "",
+                    "media": "images/14-14.jpg"
+                },
+                "headline": " Julius Klinger",
+                "startDate": "1910",
+                "text": "poster for Hermanns & Froitzheim clothing, 1910."
+            },
+            {
+                "asset": {
+                    "caption": "",
+                    "credit": "",
+                    "media": "images/13-3.jpg"
+                },
+                "headline": " Pablo Picasso",
+                "startDate": "1911",
+                "text": "Man with Violin, 1911\u201312. In the analytical cubism phase, Picasso and Braque studied the planes of a subject from different vantage points, fractured them, and pulled them forward toward the canvas surface. The planes shimmer vibrantly in ambiguous positive and negative relationships one to another."
+            },
+            {
+                "asset": {
+                    "caption": "",
+                    "credit": "",
+                    "media": "images/Malevici06.jpg"
+                },
+                "endDate": "1920",
+                "headline": "Suprematism",
+                "startDate": "1913",
+                "text": "<p>Suprematism found its base in the application of the fundamental geometric forms., particularly the square and the circle. It originated in 1915 in Russia and was established by Kazimir Malevich. The movement also expressed an interest in concepts that related to non-euclidean geometry, which imagined forms moving through space. A non-objective style of art its simplification of form and use of geometry influenced, among many other things, the development of Constructivism and the Bauhaus.</p><p>The style developed as Russia was in a revolutionary state and was an effort to do away with the old and create something new. It was primary developed in the field of painting although its practice extended to poetry and theater. It also revitalized an interest in traditional Russian folk art. The most identified work is Malevich's White on White, which is composed of an offset white square set inside of another white square.</p><a href='http://www.designishistory.com/1920/suprematism/'>Resource</a>"
+            },
+            {
+                "asset": {
+                    "caption": "",
+                    "credit": "",
+                    "media": "images/1468679918-004_lucian_bernhard_2_theredlist.jpg "
+                },
+                "headline": "Lucian Bernhard",
+                "startDate": "1914",
+                "text": "<p>Born in Germany in 1883, Lucian Bernhard's contribution to the development of modern design, advertising and culture in the early 20th century can be summed up in his poster design for the Priester match company. However, that piece was just the launching pad for his entire career. He designed posters, type, packaging, textiles, interiors and trademarks for a great many companies over the course of his career and his work was influential in both the United States and Europe; he emigrated from Berlin to America in 1923.</p><p>His advertising work amassed a client list that included Cat's Paw, Westinghouse, ExLax, Bosch, Manoli, Priester, Adler, Amoco and Grand Rapids Furniture Company. In a time when a great deal of theory was developing behind the fields of graphic design and advertising Bernhard worked almost entirely by instinct, saying \u201cYou see with your eyes, not your brain.\u201d Although he favored classic book typefaces for setting text he developed a number of display typefaces, often keeping his namesake, including Bernhard Gothic, Bernhard Fashion, Lucian, Bernhard Tango and Bernhard Brushscript.</p>"
+            },
+            {
+                "asset": {
+                    "caption": "",
+                    "credit": "",
+                    "media": "images/31_dada01.jpg"
+                },
+                "endDate": "1923",
+                "headline": "Dada",
+                "startDate": "1916",
+                "text": "<p>Dada was a cultural movement that was concentrated on anti-war politics which then made its way to the art world through art theory, art manifestoes, literature, poetry and eventually graphic design and the visual arts. The movement, although Dadaists would not have been happy calling it a movement, originated in Switzerland and spread across Europe and into the United States, which was a safe haven for many writers during World War I.</p><p>An anti-art movement, Dadaists attempted to break away from the styles of traditional art aesthetics as well as rationality, of any kind. They produced a great many publications as a home for their writings and protest materials which were handed out at gatherings and protests. The visual aesthetics associate with the movement often include found objects and materials combined through collage.</p><a href='http://www.designishistory.com/1850/dada/'>Resource</a>"
+            },
+            {
+                "asset": {
+                    "caption": "",
+                    "credit": "",
+                    "media": "images/14-27.jpg"
+                },
+                "headline": " Hans Rudi Erdt",
+                "startDate": "1916",
+                "text": "poster heralding German submarines, c. 1916. A powerful structural joining of type and image proclaimed, \"U-Boats Out!"
+            },
+            {
+                "asset": {
+                    "caption": "",
+                    "credit": "",
+                    "media": "images/118_constructivism04.jpg"
+                },
+                "endDate": "1935",
+                "headline": "Constructivism",
+                "startDate": "1917",
+                "text": "<p>A movement with origins in Russia, Constructivism was primarily an art and architectural movement. It rejected the idea of art for arts' sake and the traditional bourgeois class of society to which previous art had been catered. Instead it favored art as a practise directed towards social change or that would serve a social purpose. Developing after World War I, the movement sought to push people to rebuild society in a Utopian model rather than the one that had led to the war.</p><p>The term construction art was first coined by Kasmir Malevich in reference to the work of Aleksander Rodchenko. Graphic Design in the constructivism movement ranged from the production of product packaging to logos, posters, book covers and advertisements. Rodchenko's graphic design works became an inspiration to many people in the western world including Jan Tschichold and the design motif of the constructivists is still borrowed, and stolen, from in much of graphic design today.</p><a href='http://www.designishistory.com/1920/constructivism/'>Resource</a>"
+            },
+            {
+                "asset": {
+                    "caption": "",
+                    "credit": "",
+                    "media": "images/42_destijl01.jpg"
+                },
+                "endDate": "1931",
+                "headline": "De Stijl",
+                "startDate": "1917",
+                "text": "<p>Dutch for The Style, Die Stijl was founded in 1917. The artists most recognized with the movement were the painters Theo van Doesburg, who was also a writer and a critic, and Piet Mondrian, along with the architect Gerrit Reitveld. The movement proposed ultimate simplicity and abstraction through which they could express a Utopian idea of harmony and order.</p><p>The harmony and order was established through a reduction of elements to pure geometric forms and primary colors. Die Stijl was also the name of a publication discussing the groups theories which was published by van Doesburg. The publication Die Stijl represents the most significant work of graphic design from the movement, but the ideas of reduction of form and color are major influences on the development of graphic design as well.</p><a href='http://www.designishistory.com/1920/de-stijl/'>Resource</a>"
+            },
+            {
+                "asset": {
+                    "caption": "",
+                    "credit": "",
+                    "media": "images/14-23.jpg"
+                },
+                "headline": " Julius Klinger",
+                "startDate": "1917",
+                "text": "poster for Germany\u2019s eighth bond drive, 1917. Eight arrows piercing a dragon remind citizens that their gifts have helped wound the enemy."
+            },
+            {
+                "asset": {
+                    "caption": "",
+                    "credit": "",
+                    "media": "images/12-48.jpg"
+                },
+                "headline": " The London Underground symbol",
+                "startDate": "1918",
+                "text": "revised by Edward Johnston in 1918, is shown in the 1972 version used today."
+            },
+            {
+                "asset": {
+                    "caption": "",
+                    "credit": "",
+                    "media": "https://www.youtube.com/watch?v=ZQa0BajKB4Q"
+                },
+                "endDate": "1933",
+                "headline": "Bauhaus",
+                "startDate": "1919",
+                "text": "<p>The Bauhaus was a school whose approach to design and the combination of fine art and arts and crafts proved to be a major influence on the development of graphic design as well as much of 20th century modern art. Founded by Walter Gropius in Weimar, Germany in 1919, the school moved to Dessau in 1924 and then was forced to close its doors, under pressure from the Nazi political party, in 1933. The school favored simplified forms, rationality, functionality and the idea that mass production could live in harmony with the artistic spirit of individuality.</p><p>Along with Gropius, and many other artists and teachers, both Laszlo Moholy-Nagy and Herbert Bayer made significant contributions to the development of graphic design. Among its many contributions to the development of design, the Bauhaus taught typography as part of its curriculum and was instrumental in the development of sans-serif typography, which they favored for its simplified geometric forms and as an alternative to the heavily ornate German standard of blackletter typography.</p><a href='http://www.designishistory.com/1850/futurism/'>Resource</a>"
+            },
+            {
+                "asset": {
+                    "caption": "",
+                    "credit": "",
+                    "media": "images/13-7.jpg"
+                },
+                "headline": " Fernand L\u00e9ger",
+                "startDate": "1919",
+                "text": "page from La fin du monde, 1919. A whirlwind tour of the re-creation of the earth after the fall of man is illustrated by a pinwheel of lettering spelling \"accelerated slow motion cinema."
+            },
+            {
+                "asset": {
+                    "caption": "",
+                    "credit": "",
+                    "media": "images/15-8.jpg"
+                },
+                "headline": " El Lissitzky",
+                "startDate": "1919",
+                "text": "PROUN 23, no. 6, 1919. Lissitzky developed visual ideals about balance, space, and form in his paintings, which became the basis for his graphic design and architecture."
+            },
+            {
+                "asset": {
+                    "caption": "",
+                    "credit": "",
+                    "media": "images/15-9.jpg"
+                },
+                "headline": " El Lissitzky",
+                "startDate": "1919",
+                "text": "Beat the Whites with the Red Wedge, 1919. The Bolshevik army emblem, a red wedge, slashes diagonally into a white sphere signifying Aleksandr Kerensky\u2019s \"white\" forces. The slogan\u2019s four words are placed to reinforce the dynamic movement."
+            },
+            {
+                "asset": {
+                    "caption": "",
+                    "credit": "",
+                    "media": "images/16-6.jpg"
+                },
+                "headline": " Herbert Bayer",
+                "startDate": "1919",
+                "text": "cover design, Staatliches Bauhaus in Weimar, 1919\u20131923, 1923. Geometrically constructed letterforms printed in red and blue on a black background are compressed into a square."
+            },
+            {
+                "asset": {
+                    "caption": "",
+                    "credit": "",
+                    "media": "images/10-32.jpg"
+                },
+                "headline": " Jan van Krimpen",
+                "startDate": "1920",
+                "text": "pages from Deirdre & de zonen van Usnach (Deirdre and the Sons of Usnach), by A. Roland Holst, Palladium Series, 1920."
+            },
+            {
+                "asset": {
+                    "caption": "",
+                    "credit": "",
+                    "media": "images/BeatTheWhites.jpg"
+                },
+                "headline": "El Lissitzky",
+                "startDate": "1920",
+                "text": "<p>Lazar Markovich Lissitzky (1890 \u2013 1941), better known as El Lissitzky, was a Russian artist, designer, photographer, teacher, typographer, and architect. He was one of the most important figures of the Russian avant garde, helping develop suprematism with his friend and mentor, Kazimir Malevich.</p><p>Lissitzky's entire career was laced with the belief that the artist could be an agent for change. 4 A Jew, he began his career illustrating Yiddish children's books in an effort to promote Jewish culture in Russia, a country that was undergoing massive change at the time and had just repealed its anti-semitic laws. Starting at the age of 15, he began teaching; a duty he would stay with for the vast majority of his life. Over the years, he taught in a variety of positions, schools, and artistic mediums, spreading and exchanging ideas at a rapid pace. He took this ethic with him when he worked with Malevich in heading the suprematist art group UNOVIS, when he developed a variant suprematist series of his own, Proun, and further still in 1921, when he took up a job as the Russian cultural ambassador in Weimar Germany, working with and influencing important figures of the Bauhaus and De Stijl movements during his stay. In his remaining years he brought significant innovation and change to the fields of typography, exhibition design, photomontage, and book design, producing critically respected works and winning international acclaim for his exhibition design. This continued until his deathbed, where in 1941 he produced one of his last known works \u2014 a Soviet propaganda poster rallying the people to construct more tanks for the fight against Nazi Germany.</p>"
+            },
+            {
+                "asset": {
+                    "caption": "",
+                    "credit": "",
+                    "media": "images/P08078_10.jpg"
+                },
+                "headline": "Eric Gill",
+                "startDate": "1920",
+                "text": "An English sculptor, sign painter, type designer, wannabe social reformer, devout Catholic with unusual sexual behaviour. His best known type designs were produced by the Monotype corporation, although he also designed type for private presses. His most widely used type Gill Sans, strongly influenced by the London Transport lettering of his teacher Edward Johnston, was the first successful sans type based on the humanist models of the Renaissance. Other of his designs are the intricate Perpetua and Joanna, named after his daughter."
+            },
+            {
+                "asset": {
+                    "caption": "",
+                    "credit": "",
+                    "media": "images/15-47.jpg"
+                },
+                "headline": " Th\u00e9o van Doesburg",
+                "startDate": "1922",
+                "text": "cover forDe Stijl, 1922. Type is asymmetrically balanced in the four corners of an implied rectangle.De Stijl is combined with the lettersN andB, which indicatedNieuwe Beelden (New Images)."
+            },
+            {
+                "asset": {
+                    "caption": "",
+                    "credit": "",
+                    "media": "images/16-4.jpg"
+                },
+                "headline": " Oscar Schlemmer",
+                "startDate": "1922",
+                "text": "later Bauhaus seal, 1922. Comparison of the two seals demonstrates how graphic designs express ideas; the later seal connotes the emerging geometric and machine orientation."
+            },
+            {
+                "asset": {
+                    "caption": "",
+                    "credit": "",
+                    "media": "images/13-34.jpg"
+                },
+                "headline": " Kurt Schwitters",
+                "startDate": "1924",
+                "text": "pages from Merz 11, 1924. Ads for Pelikan tusche and inks demonstrate Schwitters\u2019s growing interest in constructivism during the 1920s."
+            },
+            {
+                "asset": {
+                    "caption": "",
+                    "credit": "",
+                    "media": "images/14-63.jpg"
+                },
+                "headline": " Austin Cooper",
+                "startDate": "1924",
+                "text": "poster for the London Underground, 1924. Color conveys the comfort of warmer temperatures in the underground railway during winter."
+            },
+            {
+                "asset": {
+                    "caption": "",
+                    "credit": "",
+                    "media": "images/15-17.jpg"
+                },
+                "headline": " El Lissitzky",
+                "startDate": "1924",
+                "text": "book cover for The Isms of Art, 1924. Complex typographic information is organized into a cohesive whole by the construction of structural relationships."
+            },
+            {
+                "asset": {
+                    "caption": "",
+                    "credit": "",
+                    "media": "images/15-29.jpg"
+                },
+                "headline": " Alexander Rodchenko",
+                "startDate": "1924",
+                "text": "paperback book covers for the Jim Dollar series, 1924. Consistency is achieved through standardized format; montages illustrate each story."
+            },
+            {
+                "asset": {
+                    "caption": "",
+                    "credit": "",
+                    "media": "images/15-53.jpg"
+                },
+                "headline": " Gerrit Rietveld",
+                "startDate": "1924",
+                "text": "model for the Schroeder House, Utrecht, 1924. A new architecture is composed of planes in a square."
+            },
+            {
+                "asset": {
+                    "caption": "",
+                    "credit": "",
+                    "media": "images/16-15.jpg"
+                },
+                "headline": " Herbert Bayer",
+                "startDate": "1924",
+                "text": "proposed streetcar station and newsstand, 1924. A concise modular unit, designed for economical mass production, combines an open waiting area, newsstand, and rooftop advertising panels."
+            },
+            {
+                "asset": {
+                    "caption": "",
+                    "credit": "",
+                    "media": "images/rodchenko.jpg "
+                },
+                "headline": "Alexander Rodchenko",
+                "startDate": "1924",
+                "text": "(1891 - 1956), was one of the most versatile Constructivist artist/designers to emerge after the Russian Revolution. He worked as a painter and graphic designer before turning to photomontage and photography. His photography was socially engaged, formally innovative, and opposed to a painterly aesthetic. Concerned with the need for analytical-documentary photo series, he often shot his subjects from odd angles - usually high above or below - to shock the viewer and to postpone recognition. He wrote: \"One has to take several different shots of a subject, from different points of view and in different situations, as if one examined it in the round rather than looked through the same key-hole again and again.\""
+            },
+            {
+                "asset": {
+                    "caption": "",
+                    "credit": "",
+                    "media": "images/stepanova_drawing-for-a-fabric-19242.jpg"
+                },
+                "headline": "Varvara Stepanova",
+                "startDate": "1924",
+                "text": "<p>Wife and colleague in both life and art, Varvara Stepanova(1894-1958) was the wife of Aleksander Rodchenko. A comrade and friend, she was also a painter, photographer and designer. She was influential as member of the group of artists that worked in the Russian avant-garde movement and, later in her career, she would refer to herself as a constructivist. Her work shows a direct influence of the Cubists and the Futurist art movements and she spent her career dedicated to trying to use her work to create revolutionary change within society.</p><p>As a designer she created everything from posters and books to sets and costumes for local theaters. She became so involved with the world of theater design that she even designed textiles for use in the manufacturing of the costumes for the productions she helped design. Her work, along with the work of the rest of the Russian avant-garde and Constructivist artists, helped pave the way for all modern day graphic designers as they created art with a purpose in hopes of bettering the society in which they lived.</p>"
+            }
+        ]
+    }
+}

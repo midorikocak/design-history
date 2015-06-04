@@ -1,0 +1,414 @@
+storyjs_jsonp_data = {
+    "timeline":
+    {
+        "headline":"Deisgn History Timeline 1940-1970",
+        "type":"default",
+		"text":"Midori Kocak",
+		"startDate":"1940",
+        "date": [
+         {
+            "endDate":"1970",
+            "startDate":"1940",
+            "headline":"New York School ",
+            "asset":
+            {
+               "media":"images/brodovitch2.jpg",
+               "credit":"",
+               "caption":""
+            },
+            "text":"<p>The New York School was an informal group of American poets, painters and musicians active in the 1940s, 1950s, and 1960s in New York City. The poets, painters, composers, and musicians often drew inspiration from Surrealism and the contemporary avant-garde art movements, in particular action painting, abstract expressionism, Jazz, improvisational theater, avant-garde music, and the interaction of friends in the New York City art world's vanguard circle.</p><p>For the purposes of Graphic Design, however, the New York School denotes the group of graphic designers active during the 1950s in and around New York. The older generation of these designers had fled from Europe earlier in the century, while the younger consisted of students which they educated at institutions such as the Cooper Union, Blackmountain College and the School of the Art Institute of Chicago, and who in turn become educators themselves, setting up a chain of innovative, modernist design firmly embedded within an instructional tradition.</p>",
+            "FIELD6":"http://www.citrinitas.com/history_of_viscom/modernists.html"
+         },
+         {
+    
+            "startDate":"1941",
+            "headline":" Jean Carlu",
+            "asset":
+            {
+               "media":"images/17-30.jpg",
+               "credit":"",
+               "caption":""
+            },
+            "text":"poster for the Office of Emergency Management, 1941. Visual and verbal elements are inseparably interlocked in an intense symbol of productivity and labor.",
+    
+         },
+         {
+    
+            "startDate":"1949",
+            "headline":" Herbert Bayer",
+            "asset":
+            {
+               "media":"images/17-37.jpg",
+               "credit":"",
+               "caption":""
+            },
+            "text":"poster supporting polio research, 1949. The diagonal shaft of the test tube leads the eye from the red and blue headline to the flowing yellow light that is beginning to dawn, linking the elements in the same manner as the thick black bars of Bayer’s Bauhaus work.",
+    
+         },
+         {
+            "endDate":"1980",
+            "startDate":"1950",
+            "headline":"Swiss Design ",
+            "asset":
+            {
+               "media":"images/max-bill-1956.jpg",
+               "credit":"",
+               "caption":""
+            },
+            "text":"<p>Often referred to as the International Typographic Style or the International Style, the style of design that originated in Switzerland in the 1940s and 50s was the basis of much of the development of graphic design during the mid 20th century. Led by designers Josef Müller-Brockmann at the Zurich School of Arts and Krafts and Armin Hofmann at the Basel School of Design, the style favored simplicity, legibility and objectivity.</p><p>Of the many contributions to develop from the two schools were the use of, sans-serif typography, grids and asymmetrical layouts. Also stressed was the combination of typography and photography as a means of visual communication. The primary influential works were developed as posters, which were seen to be the most effective means of communication. </p>",
+            "FIELD6":"http://www.designishistory.com/home/swiss/"
+         },
+         {
+    
+            "startDate":"1950",
+            "headline":" Alexey Brodovitch (art director) and Richard Avedon (photographer)",
+            "asset":
+            {
+               "media":"images/17-17.jpg",
+               "credit":"",
+               "caption":""
+            },
+            "text":"editorial photographic spread from Harper’s Bazaar, July 1950. Brodovitch’s art direction is clearly seen in the cropping and use of size contrast.",
+    
+         },
+         {
+    
+            "startDate":"1953",
+            "headline":" Gene Federico (art director)",
+            "asset":
+            {
+               "media":"images/19-50.jpg",
+               "credit":"",
+               "caption":""
+            },
+            "text":"advertisement for Woman’s Day, 1953. In this double-page advertisement from the New Yorker magazine, the perfectly round Futura o’s form bicycle wheels.",
+    
+         },
+         {
+    
+            "startDate":"1953",
+            "headline":" Tadeusz Trepkowski",
+            "asset":
+            {
+               "media":"images/21-3.jpg",
+               "credit":"",
+               "caption":""
+            },
+            "text":"antiwar poster, 1953. A passionate statement is reduced to just one word: No!\"",
+    
+         },
+         {
+    
+            "startDate":"1954",
+            "headline":" Adrian Frutiger",
+            "asset":
+            {
+               "media":"images/18-14.jpg",
+               "credit":"",
+               "caption":""
+            },
+            "text":"schematic diagram of the twenty-one Univers fonts, 1954. Frutiger systematically altered the forms of fonts located on this chart above, below, and to the left or right of Univers 55.",
+    
+         },
+         {
+    
+            "startDate":"1954",
+            "headline":" Armando Testa",
+            "asset":
+            {
+               "media":"images/21-1.jpg",
+               "credit":"",
+               "caption":""
+            },
+            "text":"poster for Pirelli, 1954. The strength of a bull elephant is bestowed on the tire by the surrealist technique of image combination.",
+    
+         },
+         {
+    
+            "startDate":"1954",
+            "headline":"Adrian Frutiger",
+            "asset":
+            {
+               "media":"images/univers.jpg",
+               "credit":"",
+               "caption":""
+            },
+            "text":"<p>Adrian Frutiger has created some of the most used typefaces of the 20th and 21st century. Athough interested in many fields including woodcut and paper sillhouettes, Frutiger has been passionate about typography for his entire life. Spending most of his career working for Deberny & Peignot updating typefaces and preparing them for photo-typesetting, as well as designing typefaces of his own accord, he has created almost 30 typefaces.</p> <p>Some of his most famous typefaces include Univers, Frutiger (created for the Charles de Gaulle airport), Egyptienne, Serifa and Avenir. Frutiger is one of only a few typographers whose career spans across hot metal, photographic and digital typesetting. He has also been instrumental in refining his own typefaces to include more weights and true italics, some eamples are Frutiger Next and Avenir Next.</p> ",
+    
+         },
+         {
+    
+            "startDate":"1955",
+            "headline":" Saul Bass",
+            "asset":
+            {
+               "media":"images/19-20.jpg",
+               "credit":"",
+               "caption":""
+            },
+            "text":"logo for The Man with the Golden Arm, 1955. This consistent and memorable visual identifier was flexible enough for uses ranging from minute newspaper advertisements to large-scale posters.",
+    
+         },
+         {
+    
+            "startDate":"1955",
+            "headline":" Herbert Leupin",
+            "asset":
+            {
+               "media":"images/21-37.jpg",
+               "credit":"",
+               "caption":""
+            },
+            "text":"poster for Tribune de Lausanne, 1955.",
+    
+         },
+         {
+    
+            "startDate":"1955",
+            "headline":"Joseph Müller-Brockmann",
+            "asset":
+            {
+               "media":"images/213.jpg ",
+               "credit":"",
+               "caption":""
+            },
+            "text":"<p>As with most graphic designers that can be classified as part of the Swiss International Style, Joseph Müller-Brockmann was influenced by the ideas of several different design and art movements including Constructivism, De Stijl, Suprematism and the Bauhaus. He is perhaps the most well-known Swiss designer and his name is probably the most easily recognized when talking about the period. He was born and raised in Switzerland and by the age of 43 he became a teacher at the Zurich school of arts and crafts.</p><p>Perhaps his most decisive work was done for the Zurich Town Hall as poster advertisements for its theater productions. He published several books, including The Graphic Artist and His Problems and Grid Systems in Graphic Design. These books provide an in-depth analysis of his work practices and philosophies, and provide an excellent foundation for young graphic designers wishing to learn more about the profession. He spent most of his life working and teaching, even into the early 1990s when he toured the US and Canada speaking about his work. He died in Zurich in 1996.</p>",
+    
+         },
+         {
+    
+            "startDate":"1956",
+            "headline":" Paul Rand",
+            "asset":
+            {
+               "media":"images/20-15.jpg",
+               "credit":"",
+               "caption":""
+            },
+            "text":"IBM trademark, 1956. The original design is shown with outline versions and the eight- and thirteen-stripe versions currently used.",
+    
+         },
+         {
+    
+            "startDate":"1957",
+            "headline":" Anton Stankowski",
+            "asset":
+            {
+               "media":"images/18-11.jpg",
+               "credit":"",
+               "caption":""
+            },
+            "text":"calendar cover for Standard Elektrik Lorenz AG, 1957. A radial configuration symbolizes transmission and radiation using the client’s radio and telephone products.",
+    
+         },
+         {
+    
+            "startDate":"1958",
+            "headline":" Thomas H. Geismar",
+            "asset":
+            {
+               "media":"images/19-25.jpg",
+               "credit":"",
+               "caption":""
+            },
+            "text":"cover for Common Sense and Nuclear Warfare, c. 1958. The atomic blast became a visual metaphor for the human brain, graphically echoing the title.",
+    
+         },
+         {
+    
+            "startDate":"1958",
+            "headline":" Giovanni Pintori",
+            "asset":
+            {
+               "media":"images/20-3.jpg",
+               "credit":"",
+               "caption":""
+            },
+            "text":"poster for the Olivetti 82 Diaspron, c. 1958. A schematic diagram depicting a typewriter key’s mechanical action combines with a photograph to communicate two levels of information.",
+    
+         },
+         {
+    
+            "startDate":"1959",
+            "headline":"Saul Bass",
+            "asset":
+            {
+               "media":"images/saul-bass-movie-posters-09.jpg",
+               "credit":"",
+               "caption":""
+            },
+            "text":"(1920 - 1996) was a graphic designer, but is best known for his design on motion picture title sequences, which is thought of as the best such work ever seen. During his 40-year career he worked for some of Hollywood's greatest filmmakers, including most notably Alfred Hitchcock, plus Otto Preminger, Stanley Kubrick and Martin Scorsese. His most famous title sequence is probably the animated paper cut-out of a heroin addict's arm for Preminger's The Man with the Golden Arm. Saul Bass designed the 6th AT&T Bell System logo, that at one point achieved a 93 percent recognition rate in the United States. He also designed the AT&T \"globe\" logo for AT&T after the break up of the Bell System.",
+    
+         },
+         {
+    
+            "startDate":"1959",
+            "headline":"Armin Hoffmann",
+            "asset":
+            {
+               "media":"images/AH_Giselle_640_New.gif",
+               "credit":"",
+               "caption":""
+            },
+            "text":"<p>By the age of 27 Armin Hofmann had already completed an apprenticeship in lithography and had begun teaching typography at the Basel School of Design. His colleagues and students were integral in adding to work and theories that surrounded the Swiss International Style, which stressed a belief in an absolute and universal style of graphic design. The style of design they created had a goal of communication above all else, practiced new techniques of photo-typesetting, photo-montage and experimental composition and heavily favored sans-serif typography.</p><p>He taught for several years at the Basel School of Design and he was not there long before he replaced Emil Ruder as the head of the school. The Swiss International Style, and Hofmann, thought that one of the most efficient forms of communications was the poster and Hofmann spent much of his career designing posters, in particularly for the Basel Stadt Theater. Just as Emil Ruder and Joseph Müller-Brockmann did, Hofmann wrote a book outlining his philosophies and practices. His Graphic Design Manual was, and still is, a reference book for all graphic designers.</p>",
+    
+         },
+         {
+    
+            "startDate":"1960",
+            "headline":" Josef Müller-Brockmann",
+            "asset":
+            {
+               "media":"images/18-35.jpg",
+               "credit":"",
+               "caption":""
+            },
+            "text":"Der Film exhibition poster, 1960. Against a black field, the word Film is white, the word der is gray, and the other typography is red.",
+    
+         },
+         {
+    
+            "startDate":"1960",
+            "headline":" Seymour Chwast",
+            "asset":
+            {
+               "media":"images/21-23.jpg",
+               "credit":"",
+               "caption":""
+            },
+            "text":"Judy Garland poster, c. 1960. The vibrant flat colors aptly express the resonance of her singing. Chwast uses his own typeface Blimp for the title.",
+    
+         },
+         {
+    
+            "startDate":"1961",
+            "headline":" Edouard Hoffman and Max Miedinger",
+            "asset":
+            {
+               "media":"images/18-16.jpg",
+               "credit":"",
+               "caption":""
+            },
+            "text":"Helvetica typeface, 1961. The basic version of Helvetica released by the Stempel foundry in 1961 is shown, along with some of the variations developed later.",
+    
+         },
+         {
+    
+            "startDate":"1966",
+            "headline":" Lance Wyman",
+            "asset":
+            {
+               "media":"images/20-47.jpg",
+               "credit":"",
+               "caption":""
+            },
+            "text":"logo poster for the Nineteenth Olympiad, 1966.",
+    
+         },
+         {
+    
+            "startDate":"1966",
+            "headline":" Wes Wilson",
+            "asset":
+            {
+               "media":"images/21-44.jpg",
+               "credit":"",
+               "caption":""
+            },
+            "text":"concert poster for the Grateful Dead, Junior Wells Chicago Blues Band, and the Doors, 1966. Hand-drawn line art is printed in intensely vibrating colors.",
+    
+         },
+         {
+    
+            "startDate":"1967",
+            "headline":" Jacqueline S. Casey",
+            "asset":
+            {
+               "media":"images/18-47.jpg",
+               "credit":"",
+               "caption":""
+            },
+            "text":"announcement for the MIT ocean engineering program, 1967. Typography sits above an X-ray of a chambered nautilus shell superimposed on a wavelike repetition of fluid blue shapes.",
+    
+         },
+         {
+    
+            "startDate":"1967",
+            "headline":" Milton Glaser",
+            "asset":
+            {
+               "media":"images/21-19.jpg",
+               "credit":"",
+               "caption":""
+            },
+            "text":"Bob Dylan poster, 1967. Transcending subject and function, this image became a symbolic crystallization of its time.",
+    
+         },
+         {
+    
+            "startDate":"1967",
+            "headline":"Emil Ruder",
+            "asset":
+            {
+               "media":"images/typographie.jpg ",
+               "credit":"",
+               "caption":""
+            },
+            "text":"<p>Emil Ruder was a typographer and graphic designer who, born in Switzerland in 1914, helped Armin Hofmann form the Basel School of Design and establish the style of design known as Swiss Design. He taught that, above all, typography's purpose was to communicate ideas through writing. He placed a heavy importance on sans-serif typefaces and his work is both clear and concise, especially his typography.</p><p>Like most designers classified as part of the Swiss Design movement he favored asymmetrical compositions, placing a high importance on the counters of characters and the negative space of compositions. A friend and associate of Hofmann, Frutiger and Müller Brockmann, Ruder played a key role in the development of graphic design in the 1940s and 50s. His style has been emulated by many designers, and his use of grids in design has influenced the development of web design on many levels.</p>",
+    
+         },
+         {
+    
+            "startDate":"1968",
+            "headline":" Alvin Eisenman",
+            "asset":
+            {
+               "media":"images/19-29.jpg",
+               "credit":"",
+               "caption":""
+            },
+            "text":"insert for Homage to the Book portfolio, 1968.",
+    
+         },
+         {
+    
+            "startDate":"1968",
+            "headline":" George Lois (designer) and Carl Fischer (photographer)",
+            "asset":
+            {
+               "media":"images/19-69.jpg",
+               "credit":"",
+               "caption":""
+            },
+            "text":"Esquire cover, April 1968. Muhammad Ali posed as Saint Sebastian, who was condemned by Roman emperor Diocletian and shot by archers.",
+    
+         },
+         {
+    
+            "startDate":"1968",
+            "headline":" Milton Glaser",
+            "asset":
+            {
+               "media":"images/21-20.jpg",
+               "credit":"",
+               "caption":""
+            },
+            "text":"Dada and surrealism exhibition poster, 1968. The smaller table isolates the word real within the longer word surrealism.",
+    
+         },
+         {
+    
+            "startDate":"1969",
+            "headline":" Dietmar Winkler",
+            "asset":
+            {
+               "media":"images/18-52.jpg",
+               "credit":"",
+               "caption":""
+            },
+            "text":"poster for a computer programming course at MIT, 1969. The term COBAL emerges from a kinetic construction of modular letters.",
+    
+         }
+        ]
+    }
+}

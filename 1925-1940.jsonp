@@ -1,0 +1,479 @@
+storyjs_jsonp_data = {
+    "timeline":
+    {
+        "headline":"Deisgn History Timeline 1925-1940",
+        "type":"default",
+		"text":"Midori Kocak",
+		"startDate":"1925",
+        "date": [
+         {
+    
+            "startDate":"1925",
+            "headline":" Théo van Doesburg and Laszlo Moholy-Nagy",
+            "asset":
+            {
+               "media":"images/15-42.jpg",
+               "credit":"",
+               "caption":""
+            },
+            "text":"book cover, 1925. The essence of De Stijl is conveyed.",
+    
+         },
+         {
+    
+            "startDate":"1925",
+            "headline":" Walter Gropius",
+            "asset":
+            {
+               "media":"images/16-13.jpg",
+               "credit":"",
+               "caption":""
+            },
+            "text":"Dessau Bauhaus building, 1925–26. This architectural landmark has a series of parts—workshop (shown here), classroom, dormitory, and administrative structures—unified into a whole.",
+    
+         },
+         {
+    
+            "startDate":"1925",
+            "headline":" Jan Tschichold",
+            "asset":
+            {
+               "media":"images/16-26.jpg",
+               "credit":"",
+               "caption":""
+            },
+            "text":"cover for \"Elementare Typographie\" insert, 1925. A sparse, open functionalism is achieved.",
+    
+         },
+         {
+    
+            "startDate":"1925",
+            "headline":"Theo Van doesburg",
+            "asset":
+            {
+               "media":"images/contra-composition-of-dissonances-xvi-1925.jpg!Blog.jpg",
+               "credit":"",
+               "caption":""
+            },
+            "text":"<p>Highly influenced by Wassily Kandinsky, van Doesburg shifted his style of painting from one that emphasized less of a direct reflection of everyday life and one that placed more importance on a conceptual style that favored a simplistic geometric style. A Dutch artist, van Doesburg led the artistic style movement \"De Stijl\" into popularity and influenced graphic designers for many years to come with his theories, which conveyed the idea that there was a collective experience of reality that could be tapped as a medium of communication.</p><p>Van Doesburg designed a typeface where each character was based upon a square divided into 25 smaller squares, developing long before the Macintosh computer and pixel-based fonts. It has been revived as Architype Van Doesburg.</p><p>Van Doesburg moved to Weimar, Germany in hopes of impressing the directer of the Bauhaus, Walter Gropius. Gropius did not directly oppose his ideas, but did not accept him onto the faculty of the Bauhaus. In reaction to this, Van Doesburg positioned his studio directly next to the Bahaus and attracted many students with the ideas he promoted, most of which were developed out of the ideas of Constructivism, Dadaism and De Stijl.</p><p>It was during these times that Van Doesburg formed a tight bond with the artist Piet Mondrian. And, in 1923, Van Doesburg moved to Paris so that he could communicate directly with Mondrian. However, the two were very much polar opposites in character and it resulted in the dissolution of their friendship. It has been speculated that the breakdown came as a result of a disagreement about the directions of lines in their paintings. Van Doesburg moved to Switzerland in 1931, due to his declining health, and it was there that he died, on March 7th.</p>",
+    
+         },
+         {
+    
+            "startDate":"1926",
+            "headline":" Herbert Bayer",
+            "asset":
+            {
+               "media":"images/16-21.jpg",
+               "credit":"",
+               "caption":""
+            },
+            "text":"exhibition poster, 1926. Type and image are arranged in a functional progression of size and weight from the most important information to supporting details.",
+    
+         },
+         {
+    
+            "startDate":"1926",
+            "headline":" Piet Zwart",
+            "asset":
+            {
+               "media":"images/16-49.jpg",
+               "credit":"",
+               "caption":""
+            },
+            "text":"pages from the English-language NKF cableworks catalogue, 1926. Repetition and contrast reinforce the verbal message.",
+    
+         },
+         {
+    
+            "startDate":"1926",
+            "headline":"Herbert Bayer",
+            "asset":
+            {
+               "media":"images/Kandinsky1926.jpg",
+               "credit":"",
+               "caption":""
+            },
+            "text":"(1900-1985) was an Austrian graphic designer, painter, photographer, and architect. In the spirit of clean simplification, Bayer developed a crisp visual style and adopted an all-lowercase and sans serif typeface for all Bauhaus publications. Bayer is also credited with designing the custom geometric sans-serif font, universal. In 1928, Bayer left the Bauhaus to become art director of Vogue magazine's Berlin office. Ten years later, he settled in New York City where he had a long and distinguished career in nearly every aspect of the graphic arts.",
+    
+         },
+         {
+    
+            "startDate":"1927",
+            "headline":" Fortunato Depero",
+            "asset":
+            {
+               "media":"images/13-23.jpg",
+               "credit":"",
+               "caption":""
+            },
+            "text":"cover for Depero futurista, 1927. Bound by massive chrome bolts, this book expresses its status as a physical object.",
+    
+         },
+         {
+    
+            "startDate":"1927",
+            "headline":" Laszlo Moholy-Nagy",
+            "asset":
+            {
+               "media":"images/15-70.jpg",
+               "credit":"",
+               "caption":""
+            },
+            "text":"title page spread for i10, 1927. The printer was deeply disturbed by this design, with its words running vertically, bold sans-serif type placed into serif text for emphasis, bullets separating paragraphs, and bold bars next to page numbers.",
+    
+         },
+         {
+    
+            "startDate":"1927",
+            "headline":" Paul Renner",
+            "asset":
+            {
+               "media":"images/16-39.jpg",
+               "credit":"",
+               "caption":""
+            },
+            "text":"Futura typefaces, 1927–30. The extensive range of sizes and weights provided vigorous contrasts for printers and designers who adopted the new typography.",
+    
+         },
+         {
+    
+            "startDate":"1927",
+            "headline":"László Moholy-Nagy ",
+            "asset":
+            {
+               "media":"images/moholynagy_a19.jpg",
+               "credit":"",
+               "caption":""
+            },
+            "text":"(1895 – 1946) was a Hungarian painter and photographer as well as professor in the Bauhaus school. He was highly influenced by constructivism. He was a strong advocate of the integration of technology and industry into the arts. In 1923, he replaced Johannes Itten as the instructor of the preliminary course at the Bauhaus. This effectively marked the end of the school's expressionistic leanings and moved it closer towards its original aims as a school of design and industrial integration. The Bauhaus became known for the versatility of its artist and Moholy-Nagy was no exception. Throughout his career he became proficient and innovative in the fields of photography, typography, sculpture, painting, and industrial design. One of his main focuses was on photography. He coined the term \"the New Vision\", for his belief that photography could create a whole new way of seeing the outside world that the human eye could not. His theory of art and teaching was summed up in the book The New Vision, from Material to Architecture.",
+    
+         },
+         {
+    
+            "startDate":"1928",
+            "headline":" Jan Tschichold",
+            "asset":
+            {
+               "media":"images/16-30.jpg",
+               "credit":"",
+               "caption":""
+            },
+            "text":"brochure for his book Die neue Typographie, 1928. This brochure functions as a remarkable didactic example of the principles Tschichold was advocating.",
+    
+         },
+         {
+    
+            "startDate":"1928",
+            "headline":" Eric Gill",
+            "asset":
+            {
+               "media":"images/16-37.jpg",
+               "credit":"",
+               "caption":""
+            },
+            "text":"the Gill Sans type family, 1928–30. This typeface has been widely used, especially in England.",
+    
+         },
+         {
+    
+            "startDate":"1928",
+            "headline":" Théo Ballmer",
+            "asset":
+            {
+               "media":"images/18-2.jpg",
+               "credit":"",
+               "caption":""
+            },
+            "text":"poster for an office professions exhibition, 1928. Traces of the grid squares used to construct this poster remain as the thin white lines between the letters.",
+    
+         },
+         {
+    
+            "startDate":"1928",
+            "headline":"Stenberg Brothers",
+            "asset":
+            {
+               "media":"images/07sm.jpg",
+               "credit":"",
+               "caption":""
+            },
+            "text":"The Stenberg Brothers, Georgy and Vladimir, are considered to be masters of the 1920s and 1930s Russian film poster. They embraced constructivism, which became  the avant-garde of Soviet art in the turbulent era after 1917. The Stenbergs simulated the \"magic realism\" of photography and only on rare occasions did they use actual photographs in their work.",
+            "FIELD6":"http://www.csun.edu/~pjd77408/DrD/Art461/LecturesAll/Lectures/lecture07/Constructivism.html"
+         },
+         {
+    
+            "startDate":"1928",
+            "headline":"Paul Schuitema",
+            "asset":
+            {
+               "media":"images/schuitema_lg.jpg ",
+               "credit":"",
+               "caption":""
+            },
+            "text":"<p>Paul Schuitema (1897 - 1973 ) was a Dutch graphic artist. He also designed furniture and expositions and worked as photographer, film director, painter and teacher for publicity design at the Royal Academy of Art in The Hague. Schuitema studied at the Academie voor Beeldende Kunsten in Rotterdam. In the 1920s, he began to work on graphic design,[1] applying the principles of De Stijl and constructivism to commercial advertising. Along with Gerard Kiljan and his famous colleague Piet Zwart, he followed ideas pioneered in the Soviet Union by El Lissitzky and Rodchenko, in Poland by Henryk Berlewi and in Germany by Kurt Schwitters.</p><p>During his employment at the NV Maatschappij Van Berkel Patent scale company in Rotterdam, Schuitema gained recognition for his original designs of stationery and publicity material, often using only the colors black, red and white and bold sans serif fonts. From 1926 on, he started working with photomontages, becoming one of the pioneers of this technique in the field of industrial design. Even though he was a convinced socialist and often designed leftist publications directed at industrial workers, Schuitema also worked for major companies, such as Philips.</p>",
+    
+         },
+         {
+    
+            "startDate":"1928",
+            "headline":"Jan Tschichold",
+            "asset":
+            {
+               "media":"images/tschichold1.png",
+               "credit":"",
+               "caption":""
+            },
+            "text":"Tschichold claimed that he was one of the most powerful influences on 20th century typography. There are few who would attempt to deny that statement. The son of a sign painter and trained in calligraphy, Tschichold began working with typography at a very early age. Raised in Germany, he worked closely with Paul Renner (who designed Futura) and fled to Switzerland during the rise of the Nazi party. His emphasis on new typography and sans-serif typefaces was deemed a threat to the cultural heritage of Germany, which traditionally used Blackletter Typography and the Nazis seized much of his work before he was able to flee the country.",
+    
+         },
+         {
+    
+            "startDate":"1929",
+            "headline":" Georgii and Vladimir Augustovich Stenberg",
+            "asset":
+            {
+               "media":"images/15-31.jpg",
+               "credit":"",
+               "caption":""
+            },
+            "text":"film poster for The Man with the Movie Camera, 1929. Spatial dislocation is achieved by extreme perspective, circular type, and the fragmented figure.",
+    
+         },
+         {
+    
+            "startDate":"1929",
+            "headline":" Ladislav Sutnar",
+            "asset":
+            {
+               "media":"images/15-64.jpg",
+               "credit":"",
+               "caption":""
+            },
+            "text":"cover design for Ženení a vdávání (Getting Married), 1929. The triangle creates a strong focal point, unifies the silhouette figures, and becomes the main structural element in a delicately balanced composition.",
+    
+         },
+         {
+    
+            "startDate":"1929",
+            "headline":" Laszlo Moholy-Nagy",
+            "asset":
+            {
+               "media":"images/16-17.jpg",
+               "credit":"",
+               "caption":""
+            },
+            "text":"brochure cover for the series of fourteen Bauhaus books, 1929. Two photoprints of metal type are collaged together to create an unusual spatial configuration. Colored ink is printed on the numeral 14.",
+    
+         },
+         {
+    
+            "startDate":"1929",
+            "headline":" Paul Schuitema",
+            "asset":
+            {
+               "media":"images/16-54.jpg",
+               "credit":"",
+               "caption":""
+            },
+            "text":"brochure cover for the Berkel Model Z scales, before 1929. Arrows moving from the large word ZOO (meaning \"so\") create a double headline: \"So clear—every dash 5 grams\" and \"So small—20 centimeters [wide].\" This brochure was printed by letterpress from typographic material assembled on the press bed from Schuitema’s layout.",
+    
+         },
+         {
+            "endDate":"1950",
+            "startDate":"1930",
+            "headline":"New Typography",
+            "asset":
+            {
+               "media":"images/new-typography.gif",
+               "credit":"",
+               "caption":""
+            },
+            "text":"<p>In the 1920s and 1930s, the so-called New Typography movement brought graphics and information design to the forefront of the artistic avant-garde in Central Europe. Rejecting traditional arrangement of type in symmetrical columns, modernist designers organized the printed page or poster as a blank field in which blocks of type and illustration (frequently photomontage) could be arranged in harmonious, strikingly asymmetrical compositions. Taking his lead from currents in Soviet Russia and at the Weimar Bauhaus, the designer Jan Tschichold codified the movement with accessible guidelines in his landmark book Die Neue Typographie (1928).</p>",
+            "FIELD6":"http://www.moma.org/visit/calendar/exhibitions/1015"
+         },
+         {
+    
+            "startDate":"1930",
+            "headline":" John Heartfield",
+            "asset":
+            {
+               "media":"images/13-37.jpg",
+               "credit":"",
+               "caption":""
+            },
+            "text":"AIZ 9, number 6, page 103, illustration attacking the press, 1930. A surreal head wrapped in newspaper appears over a headline: \"Whoever reads the bourgeois press turns blind and deaf. Away with the stultifying bandages!",
+    
+         },
+         {
+    
+            "startDate":"1930",
+            "headline":" E. McKnight Kauffer",
+            "asset":
+            {
+               "media":"images/14-48.jpg",
+               "credit":"",
+               "caption":""
+            },
+            "text":"poster for the London Underground, 1930. Art deco is dominant in this poster suggesting the power of the London Underground.",
+    
+         },
+         {
+    
+            "startDate":"1930",
+            "headline":" Karel Teige",
+            "asset":
+            {
+               "media":"images/15-68.jpg",
+               "credit":"",
+               "caption":""
+            },
+            "text":"cover forModerni architektura v ceskoslovensku (Modern Czechoslovakian Architecture), 1930.",
+    
+         },
+         {
+    
+            "startDate":"1931",
+            "headline":" A. M. Cassandre",
+            "asset":
+            {
+               "media":"images/14-53.jpg",
+               "credit":"",
+               "caption":""
+            },
+            "text":"poster for the ocean liner L’Atlantique, 1931. The ship is constructed on a rectangle, echoing the poster’s rectangular edges.",
+    
+         },
+         {
+    
+            "startDate":"1931",
+            "headline":" Ladislav Sutnar",
+            "asset":
+            {
+               "media":"images/15-66.jpg",
+               "credit":"",
+               "caption":""
+            },
+            "text":"cover ofNejmenší dum (Minimum Housing), 1931.",
+    
+         },
+         {
+    
+            "startDate":"1932",
+            "headline":" Filippo Marinetti",
+            "asset":
+            {
+               "media":"images/13-14.jpg",
+               "credit":"",
+               "caption":""
+            },
+            "text":"page from Parole in libertá futuriste (Futurist Words-in-Freedom), 1932.",
+    
+         },
+         {
+    
+            "startDate":"1932",
+            "headline":" Ludwig Hohlwein",
+            "asset":
+            {
+               "media":"images/14-42.jpg",
+               "credit":"",
+               "caption":""
+            },
+            "text":"Und Du? (And You?) poster, 1932. In the elections of 1932 and 1933 this poster was used, with different slogans, by both the Steel Helmet and the German National People’s parties. The German imperial flag serves as a backdrop for the sculptural head and helmet.",
+    
+         },
+         {
+    
+            "startDate":"1932",
+            "headline":"Herbert Matter",
+            "asset":
+            {
+               "media":"images/73244-004-E7159F04-1.jpg",
+               "credit":"",
+               "caption":""
+            },
+            "text":"Herbert Matter worked with a number of famous designers and artists during his career including Fernand Léger, Le Courbusier, Charles and Ray Eames, Derberny & Peignot, A.M. Cassandre and Alexey Brodovitch. Matter was a master of using photomontage, color and typography in an expressive manner, transcending the boundaries between art and design. His design work often favored a heavy use of photography. His most recognizable works are the posters he created for the Swiss Tourist Office, but his photography work for Harper's Bazaar, under the direction of Brodovitch, is equally impressive. A master in his profession, he began teaching photography and design at Yale in 1952. He continued to teach and work, notable work from his later career includes the identity design for the New Haven Railroad, until he died in 1984.",
+    
+         },
+         {
+    
+            "startDate":"1932",
+            "headline":"Ladislav Sutnar",
+            "asset":
+            {
+               "media":"images/sutnar-cover.jpg",
+               "credit":"",
+               "caption":""
+            },
+            "text":"<p>Sutnar, a Czech designer born in 1897, was one of the first designers to actively practice the field of information design. His work was rooted in rationality and the process of displaying massive amounts of information in a clear and organized manner for easy consumption by the general viewer. He placed a heavy emphasis on typography and primarily used a limited color palette. While he often used punctuation symbols to help organize information one of his signature creations was the idea to place parentheses around the area codes in telephone books.</p><p>For nearly 20 years he served as the art director for Sweet's catalog services where he created information graphics and catalog layouts for a wide range of manufactured items. Before working for Sweet's he taught at the State School of Graphic Arts in Prague. He was heavily influenced by the ideas of Modernism and his work was so well structured that he had no problems communicating information clearly to an American audience, even though English was not his primary language.</p>",
+    
+         },
+         {
+    
+            "startDate":"1935",
+            "headline":" Herbert Matter",
+            "asset":
+            {
+               "media":"images/16-62.jpg",
+               "credit":"",
+               "caption":""
+            },
+            "text":"Swiss tourism poster, 1935. The photographic montage has a graphic vigor signifying the spatial experience of mountain height.",
+    
+         },
+         {
+    
+            "startDate":"1935",
+            "headline":" Alexey Brodovitch (art director) and Martin Munkacsi (photographer)",
+            "asset":
+            {
+               "media":"images/17-16.jpg",
+               "credit":"",
+               "caption":""
+            },
+            "text":"editorial photographic spread from Harper’s Bazaar, November 1935. Rejecting the conventions of the studio, Munkacsi allowed the natural movements of his models to suggest innovative possibilities.",
+    
+         },
+         {
+    
+            "startDate":"1935",
+            "headline":"A. M. Cassandre",
+            "asset":
+            {
+               "media":"images/Normandie_poster.jpg",
+               "credit":"",
+               "caption":""
+            },
+            "text":"<p>A student of the École des Beaux-Arts in Paris, France, Adolphe Mouron Cassandre was a painter, commercial poster artist and typeface designer. His inventive graphic techniques show influences of Surrealism and Cubism and became very popular in Europe and the US during the 1930s. He was a teacher as well as an artist and led courses at both the École des Arts Décoratifs and the École d'Art Graphique in 1934 and 1935. He and several other partners formed the advertising agency Alliance Graphiqe, which worked for a broad client base throughout the 1930s.</p><p>One of his most well recognized posters was the Normandie Poster and while his primary success stemmed from designing posters he also designed magazine covers, advertisements, logos and typefaces. In 1937 he designed the typeface Peignot for the Deberny & Peignot type foundry in Paris, France. He joined the French army during the German invasion of World War II, after the devastating effects of the war he found work designing sets for ballet and theater production. In 1968, after a severe battle with depression, he ended his own life.</p>",
+    
+         },
+         {
+    
+            "startDate":"1938",
+            "headline":" Alexey Brodovitch (art director) and Salvador Dalí (illustrator)",
+            "asset":
+            {
+               "media":"images/17-15.jpg",
+               "credit":"",
+               "caption":""
+            },
+            "text":"pages from Harper’s Bazaar, October 1938. The forms and texture of the experimental photograph are amplified and complemented by the typographic design.",
+    
+         },
+         {
+    
+            "startDate":"1938",
+            "headline":"Alexey Brodovich",
+            "asset":
+            {
+               "media":"images/brodovitch2.jpg ",
+               "credit":"",
+               "caption":""
+            },
+            "text":"<p>(1898-1971) was a Russian emigrant photographer and designer who worked in Paris, then America, at the beginning of the twentieth century. He went on to become the art editor for Harper's Bazaar. He is considered to be one of the most influential 20th century designers in the field of graphic design.</p><p>His contribution to contemporary magazine design while art director of Harper’s Bazaar would be sufficient enough to honor Alexey Brodovitch as a pioneer in graphic design, but his influence was much greater. He was one of the first to introduce European modernism of the 1920s to the United States both by his own work and by commissioning art and photography from leading European artists and photographers, including A.M. Cassandre, Salvador Dali, Henri Cartier-Bresson and Man Ray. Through his lifelong dedication to teaching, he created a generation of designers who shared his belief in visual vitality and immediacy. Fascinated with photography, he fostered an expressionistic approach that became the dominant photographic style of the 1950s.</p>",
+    
+         }
+        ]
+    }
+}

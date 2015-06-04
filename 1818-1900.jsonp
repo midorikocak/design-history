@@ -1,0 +1,368 @@
+storyjs_jsonp_data = {
+    "timeline":
+    {
+        "headline":"Deisgn History Timeline",
+        "type":"default",
+		"text":"Midori Kocak",
+		"startDate":"1818",
+        "date": [
+            {
+                "asset": {
+                    "caption": "",
+                    "credit": "",
+                    "media": "images/08-23.jpg"
+                },
+                "headline": " Giambattista Bodoni",
+                "startDate": "1818",
+                "text": "title page from Manuale tipografico, 1818. The crisp clarity of Bodoni\u2019s letterforms are echoed by the scotch rules. Composed of double and triple thick-and-thin elements, these rules and borders echo the weight contrasts of Bodoni\u2019s modern types."
+            },
+            {
+                "asset": {
+                    "caption": "",
+                    "credit": "",
+                    "media": "images/11-5.jpg"
+                },
+                "headline": " Katsushika Hokusai",
+                "startDate": "1830",
+                "text": "South Wind, Clear Dawn, c. 1830\u201332. This woodcut of Mount Fuji struck by early morning light is also called Red Fuji."
+            },
+            {
+                "asset": {
+                    "caption": "",
+                    "credit": "",
+                    "media": "images/victorian.png"
+                },
+                "endDate": "1901",
+                "headline": "Victorian Style",
+                "startDate": "1837",
+                "text": "<p>This style we can be definitely considered to be the first trend, which began to develop industrial design.</p><p>As the name itself indicates, the Victorian style developed in the period of the reign of Queen Victoria and included not only design but also had a big influence on the architecture.</p><p>It was a period of great transformations, the second Industrial Revolution broke out, there was the development of industry, technology and inventions and a mass production was also commenced</p><a href='http://www.slideshare.net/markrotondella/key-movements-in-design'>Resource</a>"
+            },
+            {
+                "asset": {
+                    "caption": "",
+                    "credit": "",
+                    "media": "https://www.youtube.com/watch?v=CBq73yxha0o"
+                },
+                "endDate": "1914",
+                "headline": "Arts and Crafts",
+                "startDate": "1850",
+                "text": "<p>The Arts and Crafts Movement originated in Britain during the late 19th century and was characterized by a style of decoration reminiscent of medieval times. The primary artist associated with the movement is William Morris, whose work was reinforced with writings from John Ruskin. The movement placed a high importance on the quality of craftsmanship while emphasizing the importance for the arts to contribute to economic reform.</p><p>Morris was instrumental in the founding of Morris, Marshall, Faulkner & Co., which would later evolve to just Morris & Co.. Morris & Co. and their publishing division Kelmscott Press contributed much of the work that is associated with the Arts and Crafts movement. The style is associated with many different types of design including architecture, typography, book printing, textile and interior design.</p><a href='http://www.designishistory.com/1850/arts--crafts/'>Resource</a>"
+            },
+            {
+                "asset": {
+                    "caption": "",
+                    "credit": "",
+                    "media": "images/13-16.jpg"
+                },
+                "headline": " Lewis Carroll",
+                "startDate": "1866",
+                "text": "typographic image, 1866. Unexpected and totally different from the rest of Alice\u2019s Adventures in Wonderland, this graphic experiment in figurative typography has received both design and literary acclaim."
+            },
+            {
+                "asset": {
+                    "caption": "",
+                    "credit": "",
+                    "media": "images/09-16.jpg"
+                },
+                "headline": " Rand and Avery foundry",
+                "startDate": "1867",
+                "text": "ornamental fonts, Boston, 1867."
+            },
+            {
+                "asset": {
+                    "caption": "",
+                    "credit": "",
+                    "media": "images/09-52.jpg"
+                },
+                "headline": " John H. Bufford\u2019s Sons",
+                "startDate": "1867",
+                "text": "Swedish Song Quartett poster, 1867. Arched words move gracefully above seven carefully composed musicians. Large capital letters point to the three soloists, establishing a visual relationship between word and image."
+            },
+            {
+                "asset": {
+                    "caption": "",
+                    "credit": "",
+                    "media": "images/glasgow-school02.jpg"
+                },
+                "endDate": "1910",
+                "headline": "Glasgow School",
+                "startDate": "1870",
+                "text": "<p>The Glasgow School was a circle of influential modern artists and designers who began to coalesce in Glasgow, Scotland in the 1870s, and flourished from the 1890s to sometime around 1910. Glasgow experienced an economic boom at the end of the 19th century, resulting in a burst of distinctive contributions to the Art Nouveau movement, particularly in the fields of architecture, interior design, and painting. Among the most prominent definers of the Glasgow School loose collective were \"The Four\": acclaimed architect Charles Rennie Mackintosh, the painter and glass artist Margaret MacDonald (Mackintosh's wife), MacDonald's sister Frances MacDonald, and Herbert MacNair. Cumulatively, The Four defined the Glasgow Style (a syncretistic blend of Celtic and Japanese art), which found favour throughout the modern art world of continental Europe. The Four, otherwise known as the Spook School, ultimately made a great impact on the definition of Art Nouveau.</p><a href='http://www.citrinitas.com/history_of_viscom/grid.html'>Resource</a>"
+            },
+            {
+                "asset": {
+                    "caption": "",
+                    "credit": "",
+                    "media": "images/williammorrismsc305.jpg"
+                },
+                "headline": "William Morris ",
+                "startDate": "1875",
+                "text": "(1834 \u2013 1896) was an English artist, writer, socialist activist and pioneer of eco-socialism, one of the principal founders of the British Arts and Crafts movement, best known as a designer of wallpaper and patterned fabrics, a writer of poetry and fiction, and a pioneer of the socialist movement in Britain near London and the Eco-socialist movement of the later twentieth century. He went to school at Marlborough College, but left in 1851 after a student rebellion there. He then went to Oxford University (Exeter College) after studying for his matriculation to the university. He became influenced by John Ruskin there, and met his life-long friends and collaborators, Dante Gabriel Rossetti, Edward Burne-Jones, Ford Madox Brown and Philip Webb there as well. He also met his wife, Jane Burden, a working-class woman whose pale skin, languid figure, and wavy, abundant dark hair were considered by Morris and his friends the epitome of beauty. These friends formed an artistic movement, the Pre-Raphaelite Brotherhood. They eschewed the tawdry industrial manufacture of decorative arts and architecture and favoured a return to hand-craftsmanship, raising artisans to the status of artists. He espoused the philosophy that art should be affordable, hand-made, and that there should be no hierarchy of artistic mediums."
+            },
+            {
+                "asset": {
+                    "caption": "",
+                    "credit": "",
+                    "media": "https://youtu.be/vDCEtnXlA4Y"
+                },
+                "endDate": "1940",
+                "headline": "Modernism",
+                "startDate": "1880",
+                "text": "<p>is a trend of thought which affirms the power of human beings to make, improve and reshape their environment, with the aid of scientific knowledge, technology and practical experimentation. The term covers a variety of political, cultural and artistic movements rooted in the changes in Western society at the end of the 19th century and beginning of the 20th century. Broadly, modernism describes a series of progressive cultural movements in art and architecture, music, literature and the applied arts which emerged in the decades before 1914. Embracing change and the present, modernism encompasses the works of artists, thinkers, writers and designers who rebelled against late 19th century academic and historicist traditions, and confronted the new economic, social and political aspects of the emerging modern world.</p><p>By 1930, Modernism had entered popular culture. With the increasing urbanization of populations, it was beginning to be looked to as the source for ideas to deal with the challenges of the day. Popular culture, which was not derived from high culture but instead from its own realities (particularly mass production) fueled much modernist innovation. Modern ideas in art appeared in commercials and logos, the famous London Underground logo being an early example of the need for clear, easily recognizable and memorable visual symbols. One of the most visible changes of this period is the adoption of objects of modern production into daily life. Electricity, the telephone, the automobile\u2014and the need to work with them, repair them and live with them\u2014created the need for new forms of manners, and social life. The kind of disruptive moment which only a few knew in the 1880's, became a common occurrence. The speed of communication reserved for the stock brokers of 1890 became part of family life.</p><a href='http://www.citrinitas.com/history_of_viscom/modernists.html'>Resource</a>"
+            },
+            {
+                "asset": {
+                    "caption": "",
+                    "credit": "",
+                    "media": "images/art-nouveau.png"
+                },
+                "endDate": "1910",
+                "headline": "Art Nouveau",
+                "startDate": "1880",
+                "text": "<p>Art Nouveau was an artistic movement which peaked in popularity between 1890 and 1905 which was practiced in the fields of art, architecture and applied art. It is a French term meaning \"new art\" and is characterized by organic and plant motifs as well as other highly stylized forms. The organic forms often took the form of sudden violent curves which were often referenced by the term whiplash. Its short success was a reaction against the late 19th century academic art and was replaced by the development of 20th century modernist styles.</p><p>Relative to graphic design it was popular in book production and poster printing, although it was used by artists for a variety of other types of work including advertisements, magazines, labels and typography. The typography was so heavily ornate that it was not desirable for text faces but great for display work.</p><a href='http://www.designishistory.com/1850/art-nouveau/'>Resource</a>"
+            },
+            {
+                "asset": {
+                    "caption": "",
+                    "credit": "",
+                    "media": "images/10-6.jpg"
+                },
+                "headline": " Arthur H. Mackmurdo",
+                "startDate": "1883",
+                "text": "title page for Wren\u2019s City Churches, 1883. Mackmurdo\u2019s plant forms are stylized into flamelike, undulating rhythms that compress the negative space between them. This establishes a positive and negative interplay between black ink and white paper."
+            },
+            {
+                "asset": {
+                    "caption": "",
+                    "credit": "",
+                    "media": "images/09-67.jpg"
+                },
+                "headline": " Kate Greenaway",
+                "startDate": "1886",
+                "text": "page from A Apple Pie, 1886. By leaving out the background, Greenaway simplified her page designs and focused on the figures."
+            },
+            {
+                "asset": {
+                    "caption": "",
+                    "credit": "",
+                    "media": "images/10-11.jpg"
+                },
+                "headline": " Selwyn Image",
+                "startDate": "1886",
+                "text": "woodcut from The Hobby Horse, 1886. The potential of shape and pattern as visual means to express thought and feeling is realized in this graphic elegy for illustrator/engraver Arthur Burgess. A black bird flies toward the sun over mournful downturned tulips that hover above flaming leaves."
+            },
+            {
+                "asset": {
+                    "caption": "",
+                    "credit": "",
+                    "media": "images/11-41.jpg"
+                },
+                "headline": " A. L. Rich",
+                "startDate": "1890",
+                "text": "trademark for General Electric, c. 1890. This design satisfies the requirements of a successful trademark: it is unique, legible, and unequivocal, which explains why it has survived decades of fluctuating design approaches. (A registered trademark of General Electric Company, used by permission.)"
+            },
+            {
+                "asset": {
+                    "caption": "",
+                    "credit": "",
+                    "media": "images/11-25.jpg"
+                },
+                "headline": " Henri de Toulouse-Lautrec",
+                "startDate": "1891",
+                "text": "poster, \"La Goulue au Moulin Rouge,\" 1891. Shapes become symbols; in combination, these signify a place and an event."
+            },
+            {
+                "asset": {
+                    "caption": "",
+                    "credit": "",
+                    "media": "images/kelmscott01.jpg"
+                },
+                "headline": "The Kelmscott Press",
+                "startDate": "1891",
+                "text": "In January 1891, Morris founded the Kelmscott Press at Hammersmith, London, in order to produce examples of improved printing and book design. He designed clear typefaces, such as his Roman 'golden' type, which was inspired by that of the early Venetian printer Nicolaus Jenson, and medievalizing decorative borders for books that drew their inspiration from the incunabula of the 15th century and their woodcut illustrations. Selection of paper and ink, and concerns for the overall integration of type and decorations on the page made the Kelmscott Press the most famous of the private presses of the Arts and Crafts movement. It operated until 1898, producing 53 volumes, and inspired other private presses, notably the Doves Press. Among book lovers, the Kelmscott Press edition of The Works of Geoffrey Chaucer, illustrated by Burne-Jones, is considered one of the most beautiful books ever produced. A fine edition facsimile of the Kelmscott Chaucer was published in 2002 by The Folio Society."
+            },
+            {
+                "asset": {
+                    "caption": "",
+                    "credit": "",
+                    "media": "images/11-11.jpg"
+                },
+                "headline": " Jules Ch\u00e9ret",
+                "startDate": "1893",
+                "text": "Champs-\u00c8lys\u00e9e\" (Ice Palace, Champs-\u00c8lys\u00e9e), 1893. Parisian elegance, a carefree grace, and astounding technical mastery are present. The figures create a lively play of angles, linking the top and bottom lettering. As with many of Ch\u00e9ret\u2019s larger posters, it was necessary to print \"Palais de Glace\" in two sections."
+            },
+            {
+                "asset": {
+                    "caption": "",
+                    "credit": "",
+                    "media": "images/11-14.jpg"
+                },
+                "headline": " Eug\u00e8ne Grasset",
+                "startDate": "1894",
+                "text": "exhibition poster, c. 1894. Quietly demure instead of exuberant, Grasset\u2019s figures project a resonance very different from that of the Ch\u00e9rette."
+            },
+            {
+                "asset": {
+                    "caption": "",
+                    "credit": "",
+                    "media": "images/11-34.jpg"
+                },
+                "headline": " Alphonse Mucha",
+                "startDate": "1894",
+                "text": "Gismonda poster, 1894. The life-size figure, mosaic pattern, and elongated shape created an overnight sensation."
+            },
+            {
+                "asset": {
+                    "caption": "",
+                    "credit": "",
+                    "media": "images/11-68.jpg"
+                },
+                "headline": " Jan Toorop",
+                "startDate": "1894",
+                "text": "poster for Delftsche Slaolie (Delft Salad Oil), 1894. Printed in yellow and lavender, this poster becomes kinetic through its undulating linear rhythms and close-valued complementary colors."
+            },
+            {
+                "asset": {
+                    "caption": "",
+                    "credit": "",
+                    "media": "images/TL05.jpg"
+                },
+                "headline": "Henri de Toulouse-Lautrec",
+                "startDate": "1894",
+                "text": "(1864 - 1901) Born to an old aristocratic family, he developed his interest in art during lengthy convalescence after both his legs were fractured in separate accidents (1878, 1879) that left them permanently stunted and made walking difficult. In 1881 he resolved to become an artist; after taking instruction, he established a studio in the Montmartre district of Paris in 1884 and began his lifelong association with the area's caf\u00e9s, cabarets, entertainers, and artists. He captured the effect of the movement of dancers, circus performers, and other entertainers by simplifying outlines and juxtaposing intense colours; the result was an art throbbing with life and energy. His lithographs were among his most powerful works, and his memorable posters helped define the possibilities of the genre. His pieces are often sharply satirical, but he was also capable of great sympathy, seen most poignantly in his studies of prostitutes (e.g., At the Salon, 1896). His extraordinary style helped set the course of avant-garde art for decades to come. A heavy drinker, he died at 36."
+            },
+            {
+                "asset": {
+                    "caption": "",
+                    "credit": "",
+                    "media": "images/09-72.jpg"
+                },
+                "headline": " Charles Dana Gibson",
+                "startDate": "1895",
+                "text": "poster for Scribner\u2019s, 1895. Although the exquisite beauty of the \"Gibson Girls\" was captured with facility and control, Gibson was unconcerned with the design of type and image as a cohesive whole. In this poster the printer added text in incompatible typefaces."
+            },
+            {
+                "asset": {
+                    "caption": "",
+                    "credit": "",
+                    "media": "images/10-19.jpg"
+                },
+                "headline": " William Morris",
+                "startDate": "1896",
+                "text": "title page spread from The Works of Geoffrey Chaucer, 1896."
+            },
+            {
+                "asset": {
+                    "caption": "",
+                    "credit": "",
+                    "media": "images/11-30.jpg"
+                },
+                "headline": " Th\u00e9ophile-Alexandre Steinlen",
+                "startDate": "1896",
+                "text": "poster, \"Tourn\u00e9e du Chat Noir de Rodolphe Salis,\" 1896."
+            },
+            {
+                "asset": {
+                    "caption": "",
+                    "credit": "",
+                    "media": "images/12-4.jpg"
+                },
+                "headline": " Charles Rennie Mackintosh",
+                "startDate": "1896",
+                "text": "poster for the Scottish Musical Review, 1896. In this towering image that rises 2.5 meters (over 8 feet) above the spectator, complex overlapping planes are unified by areas of flat color. The white ring and birds around the figure create a strong focal point."
+            },
+            {
+                "asset": {
+                    "caption": "",
+                    "credit": "",
+                    "media": "images/mucha_job.jpg"
+                },
+                "headline": "Alfons Mucha ",
+                "startDate": "1896",
+                "text": "(1860 - 1939) After study in Prague, Munich, and Paris, he became the principal designer of posters advertising the stage appearances of Sarah Bernhardt; he designed sets and costumes for her as well. His many opulent posters and magazine illustrations made him one of the foremost designers in the Art Nouveau style. In 1922, after Czechoslovakia had become independent, he settled in Prague and designed the new republic's stamps and banknotes."
+            },
+            {
+                "asset": {
+                    "caption": "",
+                    "credit": "",
+                    "media": "images/Secession_Vienna_June_2006_017.jpg"
+                },
+                "endDate": "1905",
+                "headline": "Vienna Secession",
+                "startDate": "1897",
+                "text": "<p>The Vienna Secession was formed in 1897 by a group of Austrian artists who had resigned from the Association of Austrian Artists, housed in the Vienna K\u00fcnstlerhaus. This movement included painters, sculptors, and architects. The first president of the Secession was Gustav Klimt, and Rudolf von Alt was made honorary president. Its official magazine was called Ver Sacrum.</p><p>The Vienna Secession was founded on 3 April 1897 by artists Gustav Klimt, Koloman Moser, Josef Hoffmann, Joseph Maria Olbrich, Max Kurzweil, and others. Although Otto Wagner is widely recognised as an important member of the Vienna Secession he was not a founding member. The Secession artists objected to the prevailing conservatism of the Vienna K\u00fcnstlerhaus with its traditional orientation toward Historicism. The Berlin and Munich Secession movements preceded the Vienna Secession, which held its first exhibition in 1898.</p><p>The group earned considerable credit for its exhibition policy, which made the French Impressionists somewhat familiar to the Viennese public. The 14th Secession exhibition, designed by Josef Hoffmann and dedicated to Ludwig van Beethoven, was especially famous. A statue of Beethoven by Max Klinger stood at the center, with Klimt's Beethoven frieze mounted around it.</p>"
+            },
+            {
+                "asset": {
+                    "caption": "",
+                    "credit": "",
+                    "media": "images/11-56.jpg"
+                },
+                "headline": " Edward Penfield",
+                "startDate": "1897",
+                "text": "poster for Harper\u2019s, 1897. Spatial compression similar to a telephoto lens converts five overlapping figures into a rhythmic two-dimensional pattern."
+            },
+            {
+                "asset": {
+                    "caption": "",
+                    "credit": "",
+                    "media": "images/11-75.jpg"
+                },
+                "headline": " Peter Behrens",
+                "startDate": "1898",
+                "text": "The Kiss, 1898. This six-color woodcut, controversial for its androgynous imagery, was first reproduced in Pan magazine."
+            },
+            {
+                "asset": {
+                    "caption": "",
+                    "credit": "",
+                    "media": "images/12-9.jpg"
+                },
+                "headline": " Gustav Klimt",
+                "startDate": "1898",
+                "text": "poster for the first Vienna Secession exhibition, 1898. The large open space in the center is unprecedented in Western graphic design."
+            },
+            {
+                "asset": {
+                    "caption": "",
+                    "credit": "",
+                    "media": "images/12-32.jpg"
+                },
+                "headline": " Berthold Foundry",
+                "startDate": "1898",
+                "text": "Akzidenz Grotesk typefaces, 1898\u20131906. An elegant system of weight contrast is achieved in these pioneering letter-forms."
+            },
+            {
+                "asset": {
+                    "caption": "",
+                    "credit": "",
+                    "media": "images/11-60.jpg"
+                },
+                "headline": " Henri van de Velde",
+                "startDate": "1899",
+                "text": "poster for Tropon food concentrate, 1899. This swirling configuration may have been inspired by the separation of egg yolks from egg whites."
+            },
+            {
+                "asset": {
+                    "caption": "",
+                    "credit": "",
+                    "media": "images/12-13.jpg"
+                },
+                "headline": " Koloman Moser",
+                "startDate": "1899",
+                "text": "cover design for Ver Sacrum, 1899. A stencil-effect technique for creating images has an affinity, in its reduction of the subject to black and white planes, with high-contrast photography."
+            },
+            {
+                "asset": {
+                    "caption": "",
+                    "credit": "",
+                    "media": "images/pictorial-modernism.jpg"
+                },
+                "endDate": "1930",
+                "headline": "Pictoral Modernism",
+                "startDate": "1900",
+                "text": "<p>If the European poster of the first half of the twentieth century was in many ways a continuation of the 1890s poster, its course was nevertheless strongly affected in the second decade of the century by new modern-art movements and the communication needs of world war. Although influenced by cubism and constructivism, poster designers were cognizant of the need to maintain a pictorial reference if their posters were to communicate persuasively with the general public; they walked a tightrope between the desire for expressive and symbolic images on the one hand and concern for the total visual organization of the picture plane on the other. This dialogue between communicative imagery and design form generates the excitement and energy of pictorial graphics influenced by modern art.</p>"
+            }
+        ]
+    }
+}

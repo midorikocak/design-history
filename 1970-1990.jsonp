@@ -1,0 +1,284 @@
+storyjs_jsonp_data = {
+    "timeline":
+    {
+        "headline":"Deisgn History Timeline 1970-1990",
+        "type":"default",
+		"text":"Midori Kocak",
+		"startDate":"1970",
+        "date": [
+         {
+            "endDate":"2000",
+            "startDate":"1970",
+            "headline":"Postmodernism",
+            "asset":
+            {
+               "media":"https://youtu.be/lKomOqYU4Mw",
+               "credit":"",
+               "caption":""
+            },
+            "text":"<p>Postmodernity is a term used to describe the social and cultural implications of postmodernism. The term is used by philosophers, social scientists, art critics and social critics to refer to aspects of contemporary art, culture, economics and social conditions that are the result of the unique features of late 20th century and early 21st century life. These features include globalization, consumerism, the fragmentation of authority, and the commoditization of knowledge (see \"Modernity\"). \"Post-modernity\" is also used to demark a period in art, design and architecture beginning in the 1950's in response to the International Style, or an artistic period characterized by the abandonment of strong divisions of genre, \"high\" and \"low\" art, and the emergence of the global village. Postmodernity is said to be marked by the re-emergence of surface ornament, reference to surrounding buildings in urban architecture, historical reference in decorative forms, non-orthogonal angles such as the Sydney Opera House and the buildings of Frank Gehry.</p>",
+            "FIELD6":"http://www.citrinitas.com/history_of_viscom/computer.html"
+         },
+         {
+    
+            "startDate":"1970",
+            "headline":" Raúl Martínez",
+            "asset":
+            {
+               "media":"images/21-67.jpg",
+               "credit":"",
+               "caption":""
+            },
+            "text":"poster honoring the Cuban people, c. 1970. Leaders and workers are cheerfully depicted in a comic book drawing style and bright, intense color.",
+    
+         },
+         {
+    
+            "startDate":"1972",
+            "headline":" Otl Aicher and his staff",
+            "asset":
+            {
+               "media":"images/20-55.jpg",
+               "credit":"",
+               "caption":""
+            },
+            "text":"informational graphics for the Munich Olympiad, 1972. Pictographs function as signifiers and illustrations.",
+    
+         },
+         {
+    
+            "startDate":"1972",
+            "headline":"Paul Rand",
+            "asset":
+            {
+               "media":"images/ibm.jpg",
+               "credit":"",
+               "caption":""
+            },
+            "text":"(1914 – 1996) was a well-known American graphic designer, best known for his corporate logo designs. Rand's education included the Pratt Institute (1929–1932), the Parsons School of Design (1932–1933), and the Art Students League (1933–1934). He was one of the originators of the Swiss Style of graphic design. From 1956–1969 and beginning again in 1974, Rand taught design at Yale University in New Haven, Connecticut. Rand was inducted into the New York Art Directors Club Hall of Fame in 1972. He designed many posters and corporate identities including the logos for IBM and ABC. Rand died of cancer in 1996.",
+    
+         },
+         {
+    
+            "startDate":"1972",
+            "headline":"Otl Aicher",
+            "asset":
+            {
+               "media":"images/adfc3a9686ff0310f42126917884f282.jpg",
+               "credit":"",
+               "caption":""
+            },
+            "text":"<p>Aicher spent time fighting in the second world war for the German army, against his own beliefs. The experience affected him greatly and his first contributions as a designer were in an effort to revitalize the public after the devastation of the war. By 1947 Aicher had opened the doors at his own studio, Büro Aicher, and had begun accepting work from a ariety of clients. Together with designer Max Bill he established the Hochschule für Gestaltung in Ulm, Germany and spent many years there as a professor.</p><p>Perhaps the most prominent and influential work that he created was the identity system developed for the 1972 Olympics in Munich. The result of several years of work, the graphics were developed on a strict grid system, solely used the typeface Univers and were created from a bright palette developed from the colors of the Bavarian countryside. He was a very proficient typographer and created the Rotis family of typefaces, which include sans-serif, semi-sans, serif and semi-serif iterations. The typefaces were named after the property where he lived and worked from 1972 until his death in 1991.</p>",
+    
+         },
+         {
+    
+            "startDate":"1972",
+            "headline":"Massimo Vignelli",
+            "asset":
+            {
+               "media":"images/transportation201208Vignelli-map-e1355338296326-600x347.jpg",
+               "credit":"",
+               "caption":""
+            },
+            "text":"An Italian, Massimo was born in Milan in 1931. It was there that he first studied art and architecture, until he came to America in 1957. In 1960, together with his wife Lella Vignelli, he established the Vignelli Office of Design and Architecture in Milan. in 1971 they formed Vignelli Associates, and in 1978, Vignelli Designs. His work covers nearly every field of design including advertising, identity, packaging, product, industrial, interior and architectural design. An avid fan of modernism, his work is always very clear and concise with no clutter or unnecessary material.",
+    
+         },
+         {
+    
+            "startDate":"1977",
+            "headline":"Milton Glaser",
+            "asset":
+            {
+               "media":"images/miltonglaser_iheartny.jpg",
+               "credit":"",
+               "caption":""
+            },
+            "text":"<p>A designer and an illustrator, if you can separate the two, Milton Glaser is one of the most recognized designers of the second half of the 20th century. His work has taken the form of many vessels, including Pushpin Studios, New York Magazine, and Milton Glaser, Inc. He was a founding member of all three organizations. Each of which has significantly contributed to the development of the design and advertising professions. Still in operation, all three continue to create new material on a regular basis.</p><p>Educated at the Cooper Union in New York and a previous member of the staff and board at the School of Visual Arts, he has been a continued member of both the design and education communities. His list of recognitions is incredible, and includes the Smithsonian Cooper-Hewitt Design Museum's lifetime achievement award. The character of his work is matched only by his own personality and his influence on graphic designers of all ages, ethnicity and gender.</p>",
+    
+         },
+         {
+    
+            "startDate":"1978",
+            "headline":" Gunter Rambow",
+            "asset":
+            {
+               "media":"images/21-59.jpg",
+               "credit":"",
+               "caption":""
+            },
+            "text":"poster for Othello, 1978. The pathos of the play is expressed by an image within an image: a tattered poster hanging on a wire fence in front a bleak apartment complex.",
+    
+         },
+         {
+    
+            "startDate":"1979",
+            "headline":" Paula Scher",
+            "asset":
+            {
+               "media":"images/22-37.jpg",
+               "credit":"",
+               "caption":""
+            },
+            "text":"poster for CBS records, 1979. The synthesis of contradictory sources of inspiration, in this case Russian constructivism and nineteenth-century wood-type posters, is often a springboard to innovation.",
+    
+         },
+         {
+    
+            "startDate":"1981",
+            "headline":" Paul Rand",
+            "asset":
+            {
+               "media":"images/20-18.jpg",
+               "credit":"",
+               "caption":""
+            },
+            "text":"Eye Bee M poster, 1981. Using the rebus principle, Rand designed this poster for the presentation of the Golden Circle award, an in-house IBM occasion. Although Rand eventually prevailed, it was temporarily banned, as it was felt that it would encourage IBM staff designers to take liberties with the IBM logo.",
+    
+         },
+         {
+    
+            "startDate":"1981",
+            "headline":" Manhattan Design",
+            "asset":
+            {
+               "media":"images/20-65.jpg",
+               "credit":"",
+               "caption":""
+            },
+            "text":"MTV logo, 1981.",
+    
+         },
+         {
+    
+            "startDate":"1981",
+            "headline":" Rosmarie Tissi",
+            "asset":
+            {
+               "media":"images/22-6.jpg",
+               "credit":"",
+               "caption":""
+            },
+            "text":"direct mail folder for Anton Schöb printers, 1981. Dynamic color and shape create an expressive backdrop for the message.",
+    
+         },
+         {
+    
+            "startDate":"1982",
+            "headline":" Takenobu Igarashi",
+            "asset":
+            {
+               "media":"images/23-22.jpg",
+               "credit":"",
+               "caption":""
+            },
+            "text":"poster for Expo ’85, 1982. An international housing exposition is signified by exploded structural forms.",
+    
+         },
+         {
+    
+            "startDate":"1983",
+            "headline":" Michael Cronin and Shannon Terry",
+            "asset":
+            {
+               "media":"images/22-36.jpg",
+               "credit":"",
+               "caption":""
+            },
+            "text":"Beethoven Festival poster, 1983. Beethoven’s passion is signaled by the corresponding forms of flame and hair.",
+    
+         },
+         {
+    
+            "startDate":"1984",
+            "headline":"Computer Age",
+            "asset":
+            {
+               "media":"images/appleiie.jpg",
+               "credit":"",
+               "caption":""
+            },
+            "text":"<p>In 1950 the British mathematician and computer pioneer Alan Turing published a paper describing what would come to be called the Turing Test. The paper explored the nature and potential development of human and computer intelligence and communication, while the first commercially successful electronic computer, UNIVAC, was also the first general purpose computer - designed to handle both numeric and textual information was also designed the same year. The implementation of this machine marked the real beginning of the computer era.</p> <p>In the mid 1980s, just 30 years later, the arrival of desktop publishing and the introduction of software applications introduced a generation of designers to computer image manipulation and 3D image creation that had previously been unachievable. Computer graphic design enabled designers to instantly see the effects of layout or typography changes without using any ink in the process. not only did computers greatly speden and fascilitate the traditional design process, they also gave a completely new outlook to sketching and idea formation, enabling designers to virtually create endless generations of one work/concept.</p>",
+            "FIELD6":"http://www.citrinitas.com/history_of_viscom/computer.html"
+         },
+         {
+    
+            "startDate":"1984",
+            "headline":"Emigre",
+            "asset":
+            {
+               "media":"images/E01LG.JPG",
+               "credit":"",
+               "caption":""
+            },
+            "text":"also known as Emigre Graphics, is a type foundry in Berkeley, California, founded by Rudy VanderLans and Zuzana Licko. It also published Emigre magazine between 1984 and 2005. Note that unlike the word émigré, Emigre is officially spelled without accents. Emigre was founded in 1984 as an independent foundry, developing typefaces without an association with a typesetting equipment manufacturer. Through a good part of the late 1980s and most of the 1990s, some of the most cutting-edge typefaces were developed or released by Emigre. Its magazine, in the meantime, provided an outlet showcasing the potential of its typeface designs, and was well known for its graphical experimentation. Emigre has also published a number of books related to graphic design.",
+    
+         },
+         {
+    
+            "startDate":"1985",
+            "headline":" Neville Brody",
+            "asset":
+            {
+               "media":"images/22-53.jpg",
+               "credit":"",
+               "caption":""
+            },
+            "text":"editorial pages for the Face, no. 59, March 1985. Type and image become objects composed against each other to achieve a dynamic whole.",
+    
+         },
+         {
+    
+            "startDate":"1985",
+            "headline":"Ikko Tanaka",
+            "asset":
+            {
+               "media":"images/1321.jpg",
+               "credit":"",
+               "caption":""
+            },
+            "text":"<p>Born in Nara, Japan in 1930, Ikko Tanaka created a style of graphic design that fused modernism principles and aesthetics with the Japanese tradition. As a child he studied art and as a young adult he was involved in modern drama and theatrical study groups. In 1963 he formed Tanaka Design Studio where he worked for corporations such as Mazda, Hanae Mori, Issey Miyake and the International Garden and Greenery Exhibition.</p> <p>He is most well-known for his poster design for the Nihon Buyo performance by the Asian Performing Arts Institute. The poster (pictured above) shows his fusion of modernist sensibilities and traditional Japanese culture through the simplified illustration of a geisha. He designed, among other things, posters, logos, packaging and annual reports. Among his wide ranging work, his designs for the symbols for the Expo '85 in Tsukuba and the World City Expo Tokyo '96 garnered much attention. He died in 2002 of a heart attack at the age of 71.</p>",
+    
+         },
+         {
+    
+            "startDate":"1986",
+            "headline":" Rico Lins",
+            "asset":
+            {
+               "media":"images/23-117.jpg",
+               "credit":"",
+               "caption":""
+            },
+            "text":"cover for the German magazine Kultur Revolution, February 1986.",
+    
+         },
+         {
+    
+            "startDate":"1987",
+            "headline":"Barbara Kruger",
+            "asset":
+            {
+               "media":"images/img-barbara-kruger_104734758083.jpg",
+               "credit":"",
+               "caption":""
+            },
+            "text":"<p>While she has studied at design at the Parsons School of Design, Syracuse University and the School of Visual Arts and spent 12 years working as a magazine designer for Condé Nast, Barbara Kruger bridges the gap between fine art and design in her personal work. Her time spent as a designer and art director for magazines like Mademoiselle, House and Garden, and Aperture certainly influenced her signature style of combining found magazine imagery with simple, to the point typography.</p><p>Setting much of her text in Futura Bold Oblique and with topics like consumerism, feminism and classicism it is hard to not have some kind of reaction to the stark statements of her work. She has been a pioneer of guerrilla art, producing some of her original works on shopping bags, t-shirts, bus benches and billboards. She has had exhibitions in many galleries around the world and currently resides and works in both Los Angeles and New York.</p>",
+    
+         },
+         {
+    
+            "startDate":"1989",
+            "headline":" Rudy VanderLans",
+            "asset":
+            {
+               "media":"images/24-5.jpg",
+               "credit":"",
+               "caption":""
+            },
+            "text":"cover for Emigre, no. 11, 1989. Three levels of visual information are layered in dimensional space.",
+    
+         }
+        ]
+    }
+}
