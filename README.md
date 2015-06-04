@@ -1,7 +1,7 @@
 Design History Timeline
 =======================
 
-Design History Timeline is an online timeline and jsonp database created by Midori Kocak for Contextual and Cultural Referencing in Art and Design Lecture, instructed by Paul Delave at Prague College, Spring Semester 2015.
+Design History Timeline is an online timeline and jsonp database created by Midori Kocak for Contextual and Cultural Referencing in Art and Design Lecture, instructed by Paul Delave at Prague College, Spring Semester 2015. I used [TimelineJS](https://github.com/NUKnightLab/TimelineJS) for this project.
 
 Online Files and Databases
 --------------------------
@@ -34,3 +34,9 @@ I had too much pain to find these resources, so you don't have to.
 - [The History of Graphic Design and Computational Form](http://printingcode.runemadsen.com/lecture-intro/)
 - [Aiga, 100 Years of Design](http://celebratedesign.org/connect/solidarity/key-artifact/your-body-is-a-battleground)
 - [Famous Graphic Designers](http://www.famousgraphicdesigners.org)
+
+
+Future
+------
+
+To create a database with all information about all artists in these resources.
