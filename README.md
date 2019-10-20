@@ -3,17 +3,19 @@ Design History Timeline
 
 Design History Timeline is an online timeline and jsonp database created by Midori Kocak for Contextual and Cultural Referencing in Art and Design Lecture, instructed by Paul Delave at Prague College, Spring Semester 2015. I used [TimelineJS](https://github.com/NUKnightLab/TimelineJS) for this project.
 
+[Demo](http://midorikocak.github.io/design-history)
+
 Online Files and Databases
 --------------------------
 
 html files and databases are consisting of 7 files. 
 
-1. 1818-1900 [JsonP](http://www.mtkocak.net/design-history/1818-1900.jsonp) [Demo](http://www.mtkocak.net/design-history/1818-1900.html)
-2. 1902-1924 [JsonP](http://www.mtkocak.net/design-history/1902-1924.jsonp) [Demo](http://www.mtkocak.net/design-history/1902-1924.html)
-3. 1925-1940 [JsonP](http://www.mtkocak.net/design-history/1925-1940.jsonp) [Demo](http://www.mtkocak.net/design-history/1925-1940.html)
-4. 1940-1970 [JsonP](http://www.mtkocak.net/design-history/1940-1970.jsonp) [Demo](http://www.mtkocak.net/design-history/1940-1970.html)
-5. 1970-1990 [JsonP](http://www.mtkocak.net/design-history/1970-1990.jsonp) [Demo](http://www.mtkocak.net/design-history/1970-1990.html)
-6. 1990-2010 [JsonP](http://www.mtkocak.net/design-history/1990-2010.jsonp) [Demo](http://www.mtkocak.net/design-history/1990-2010.html)
+1. 1818-1900 [JsonP](http://midorikocak.github.io/design-history/1818-1900.jsonp) [Demo](http://midorikocak.github.io/design-history/1818-1900.html)
+2. 1902-1924 [JsonP](http://midorikocak.github.io/design-history/1902-1924.jsonp) [Demo](http://midorikocak.github.io/design-history/1902-1924.html)
+3. 1925-1940 [JsonP](http://midorikocak.github.io/design-history/1925-1940.jsonp) [Demo](http://midorikocak.github.io/design-history/1925-1940.html)
+4. 1940-1970 [JsonP](http://midorikocak.github.io/design-history/1940-1970.jsonp) [Demo](http://midorikocak.github.io/design-history/1940-1970.html)
+5. 1970-1990 [JsonP](http://midorikocak.github.io/design-history/1970-1990.jsonp) [Demo](http://midorikocak.github.io/design-history/1970-1990.html)
+6. 1990-2010 [JsonP](http://midorikocak.github.io/design-history/1990-2010.jsonp) [Demo](http://midorikocak.github.io/design-history/1990-2010.html)
 
 Resources
 ----------
